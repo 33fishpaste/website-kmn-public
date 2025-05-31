@@ -1,0 +1,214 @@
+{
+  "sounds": [
+    {
+      "id": "kr_kabuto_bgm_r01a_sound",
+      "description": "BGM R01A",
+      "file_name": "BGM R01A",
+      "ext": "mp3",
+      "file_path": "resources/sounds/kr_kabuto/BGM R01A.mp3"
+    },
+    {
+      "id": "kr_kabuto_bgm_r01b_sound",
+      "description": "BGM R01B",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_r01c_sound",
+      "description": "BGM R01C",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_r02a_sound",
+      "description": "BGM R02A",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_r03a_sound",
+      "description": "BGM R03A",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_r04a_sound",
+      "description": "BGM R04A",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_r05a_sound",
+      "description": "BGM R05A",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_r06a_sound",
+      "description": "BGM R06A",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_w01_sound",
+      "description": "BGM W01",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_w02_sound",
+      "description": "BGM W02",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_w03_sound",
+      "description": "BGM W03",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_z01_sound",
+      "description": "BGM Z01",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_b01_sound",
+      "description": "BGM B01",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_b02_sound",
+      "description": "BGM B02",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_b03_sound",
+      "description": "BGM B03",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_da_1_sound",
+      "description": "BGM DA~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_ex01_sound",
+      "description": "BGM EX01",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_ex02_sound",
+      "description": "BGM EX02",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_ex03_sound",
+      "description": "BGM EX03",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_ex05_sound",
+      "description": "BGM EX05",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_ex_1_sound",
+      "description": "BGM EX~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_mi_1_sound",
+      "description": "BGM MI~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_open_sound",
+      "description": "BGM OPEN",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_op_1_sound",
+      "description": "BGM OP~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_re_1_sound",
+      "description": "BGM RE~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_se_1_sound",
+      "description": "BGM SE~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_se_2_sound",
+      "description": "BGM SE~2",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_se_3_sound",
+      "description": "BGM SE~3",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_st_1_sound",
+      "description": "BGM ST~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    },
+    {
+      "id": "kr_kabuto_bgm_ti_1_sound",
+      "description": "BGM TI~1",
+      "file_name": "",
+      "ext": "mp3",
+      "file_path": ""
+    }
+  ]
+}

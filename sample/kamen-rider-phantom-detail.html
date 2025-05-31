@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ワーム（サナギ体） | 仮面ライダー図鑑 | 東映</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', 'Meiryo', 'メイリオ', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.8;
+        }
+
+        /* Header */
+        header {
+            background-color: #1a1a1a;
+            border-bottom: 3px solid #ff0000;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        .header-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            background: linear-gradient(45deg, #ff0000, #ff6600);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-decoration: none;
+        }
+
+        .header-nav {
+            display: flex;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .header-nav a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 14px;
+            text-transform: uppercase;
+            transition: color 0.3s;
+        }
+
+        .header-nav a:hover {
+            color: #ff0000;
+        }
+
+        /* Breadcrumb */
+        .breadcrumb {
+            background-color: #fff;
+            padding: 10px 0;
+            margin-top: 60px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .breadcrumb-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .breadcrumb-list {
+            display: flex;
+            gap: 10px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .breadcrumb-list a {
+            color: #666;
+            text-decoration: none;
+        }
+
+        .breadcrumb-list a:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumb-separator {
+            color: #999;
+        }
+
+        /* Main Container */
+        .main-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            display: flex;
+            gap: 40px;
+        }
+
+        /* Content Area */
+        .content-area {
+            flex: 1;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        /* Phantom Header */
+        .phantom-header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #333 100%);
+            color: #fff;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .phantom-kana {
+            font-size: 14px;
+            color: #ccc;
+            margin-bottom: 5px;
+        }
+
+        .phantom-name {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        /* Phantom Image */
+        .phantom-image-container {
+            background: #f8f8f8;
+            padding: 40px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .main-image-wrapper {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .phantom-image-placeholder {
+            width: 400px;
+            height: 225px;
+            background: linear-gradient(135deg, #ddd 0%, #ccc 100%);
+            margin: 0 auto;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+            color: #999;
+            cursor: pointer;
+            transition: transform 0.3s;
+            background-repeat: no-repeat;
+        }
+
+        .phantom-image-placeholder:hover {
+            transform: scale(1.02);
+        }
+
+        /* Image Gallery */
+        .image-gallery {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .gallery-thumbnail {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #ddd 0%, #ccc 100%);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: #999;
+        }
+
+        .gallery-thumbnail:hover {
+            border-color: #ff0000;
+            transform: translateY(-2px);
+        }
+
+        .gallery-thumbnail.active {
+            border-color: #ff0000;
+            box-shadow: 0 2px 8px rgba(255,0,0,0.3);
+        }
+
+        /* Image Navigation */
+        .image-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 400px;
+            margin: 0 auto;
+            margin-top: 20px;
+        }
+
+        .image-nav-button {
+            background: rgba(0,0,0,0.5);
+            color: #fff;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: background 0.3s;
+        }
+
+        .image-nav-button:hover {
+            background: rgba(0,0,0,0.7);
+        }
+
+        .image-nav-button:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .image-counter {
+            color: #666;
+            font-size: 14px;
+        }
+
+        /* Phantom Info */
+        .phantom-info {
+            padding: 30px;
+        }
+
+        .info-section {
+            margin-bottom: 30px;
+        }
+
+        .info-row {
+            display: flex;
+            padding: 15px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .info-label {
+            width: 150px;
+            font-weight: bold;
+            color: #666;
+            flex-shrink: 0;
+        }
+
+        .info-value {
+            flex: 1;
+            color: #333;
+        }
+
+        .info-value a {
+            color: #ff0000;
+            text-decoration: none;
+        }
+
+        .info-value a:hover {
+            text-decoration: underline;
+        }
+
+        /* Description Section */
+        .description-section {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #ff0000;
+        }
+
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            color: #333;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-title::before {
+            content: '■';
+            color: #ff0000;
+        }
+
+        .description-text {
+            line-height: 2;
+            color: #333;
+            text-align: justify;
+        }
+
+        .description-text p {
+            margin-bottom: 15px;
+        }
+
+        /* Stats Section */
+        .stats-section {
+            background: #f8f8f8;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .stat-value {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 300px;
+            flex-shrink: 0;
+        }
+
+        .sidebar-section {
+            background: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .sidebar-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ff0000;
+        }
+
+        .related-links {
+            list-style: none;
+        }
+
+        .related-links li {
+            margin-bottom: 10px;
+        }
+
+        .related-links a {
+            color: #333;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+
+        .related-links a:hover {
+            background: #f0f0f0;
+        }
+
+        .related-links a::before {
+            content: '▶';
+            color: #ff0000;
+            font-size: 10px;
+        }
+
+        /* Navigation Buttons */
+        .navigation-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding: 30px;
+            border-top: 1px solid #eee;
+        }
+
+        .nav-button {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 24px;
+            background: #333;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+
+        .nav-button:hover {
+            background: #555;
+        }
+
+        .nav-button.prev::before {
+            content: '←';
+        }
+
+        .nav-button.next::after {
+            content: '→';
+        }
+
+        /* Footer */
+        footer {
+            background: #000;
+            color: #fff;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 50px;
+        }
+
+        .footer-copyright {
+            font-size: 12px;
+            color: #999;
+            line-height: 1.6;
+        }
+
+        /* Lightbox Modal */
+        .lightbox {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.9);
+            z-index: 2000;
+            cursor: pointer;
+        }
+
+        .lightbox-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 90%;
+            max-height: 90%;
+        }
+
+        .lightbox-image {
+            width: 800px;
+            height: 450px;
+            background: linear-gradient(135deg, #ddd 0%, #ccc 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 120px;
+            color: #999;
+            border-radius: 8px;
+        }
+
+        .lightbox-close {
+            position: absolute;
+            top: 20px;
+            right: 40px;
+            color: #fff;
+            font-size: 40px;
+            cursor: pointer;
+            transition: color 0.3s;
+        }
+
+        .lightbox-close:hover {
+            color: #ff0000;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .main-container {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                order: 2;
+            }
+
+            .content-area {
+                order: 1;
+            }
+
+            .phantom-image-placeholder {
+                width: 333px;
+                height: 188px;
+                background-repeat: no-repeat;
+            }
+
+            .info-row {
+                flex-direction: column;
+                gap: 5px;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .gallery-thumbnail {
+                width: 60px;
+                height: 60px;
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+            }
+
+            .lightbox-image {
+                width: 90vw;
+                height: auto;
+                aspect-ratio: 16/9;
+            }
+        }
+
+        /* Share Buttons */
+        .share-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 30px;
+            padding: 20px;
+            border-top: 1px solid #eee;
+            justify-content: center;
+        }
+
+        .share-button {
+            padding: 8px 20px;
+            border: 1px solid #ddd;
+            background: #fff;
+            color: #333;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .share-button:hover {
+            background: #f0f0f0;
+            border-color: #ff0000;
+        }
+
+        .share-button.twitter {
+            color: #1DA1F2;
+            border-color: #1DA1F2;
+        }
+
+        .share-button.facebook {
+            color: #1877F2;
+            border-color: #1877F2;
+        }
+
+        .share-button.line {
+            color: #00B900;
+            border-color: #00B900;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <a href="#" class="logo">仮面ライダー図鑑</a>
+            <nav class="header-nav">
+                <a href="#">仮面ライダー</a>
+                <a href="#">登場人物</a>
+                <a href="#">アイテム</a>
+                <a href="#">怪人</a>
+                <a href="#">作品を選ぶ</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <div class="breadcrumb-container">
+            <div class="breadcrumb-list">
+                <a href="#">ホーム</a>
+                <span class="breadcrumb-separator">></span>
+                <a href="#">怪人図鑑</a>
+                <span class="breadcrumb-separator">></span>
+                <a href="#">仮面ライダーカブト</a>
+                <span class="breadcrumb-separator">></span>
+                <span>ワーム（サナギ体）</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="main-container">
+        <!-- Content Area -->
+        <main class="content-area">
+            <!-- Phantom Header -->
+            <div class="phantom-header">
+                <div class="phantom-kana">わーむ（さなぎたい）</div>
+                <h1 class="phantom-name">ワーム（サナギ体）</h1>
+            </div>
+
+            <!-- Phantom Image -->
+            <div class="phantom-image-container">
+                <div class="main-image-wrapper">
+                    <div class="phantom-image-placeholder" id="mainImage">
+                        <span>怪</span>
+                    </div>
+                </div>
+                
+                <!-- Image Navigation -->
+                <div class="image-nav">
+                    <button class="image-nav-button" id="prevImage">←</button>
+                    <span class="image-counter"><span id="currentIndex">1</span> / <span id="totalImages">5</span></span>
+                    <button class="image-nav-button" id="nextImage">→</button>
+                </div>
+                
+                <!-- Image Gallery Thumbnails -->
+                <div class="image-gallery">
+                    <div class="gallery-thumbnail active" data-index="0">怪</div>
+                    <div class="gallery-thumbnail" data-index="1">戦</div>
+                    <div class="gallery-thumbnail" data-index="2">変</div>
+                    <div class="gallery-thumbnail" data-index="3">能</div>
+                    <div class="gallery-thumbnail" data-index="4">集</div>
+                </div>
+            </div>
+
+            <!-- Phantom Info -->
+            <div class="phantom-info">
+                <!-- Basic Info -->
+                <div class="info-section">
+                    <div class="info-row">
+                        <div class="info-label">登場作品</div>
+                        <div class="info-value">
+                            <a href="#">仮面ライダーカブト</a>
+                        </div>
+                    </div>
+                    <div class="info-row">
+                        <div class="info-label">初登場回/初登場作品</div>
+                        <div class="info-value">第1話『最強男』（2006年1月29日放送）</div>
+                    </div>
+                </div>
+
+                <!-- Description -->
+                <div class="description-section">
+                    <h2 class="section-title">説明</h2>
+                    <div class="description-text">
+                        <p>地球外生命体「ワーム」の幼体。</p>
+                        <p>両手を頬に添えた骸骨のような顔を包むフードのような頭部、昆虫を思わせる節だった手足、さらには体色は緑と普通の人であれば嫌悪感を抱くような外見をしている。</p>
+                        <p>右腕に備えた鋭い爪を武器にするが、個々の戦闘能力はそれほど高くはなく、集団で行動することが多い。</p>
+                        <p>条件は不明だが、昆虫や甲殻類の能力を備えた攻撃能力の高い成虫へと変態でき、その直前には体色が茶色に変化し体温が急激に上昇。外皮が崩れ落ちる脱皮のような形で成虫のワームが出現する。</p>
+                        <p>また、アラクネアワーム ルボアなど一部のワームは、成虫になったあとにサナギ体の姿に戻ることもあり、サナギ体の姿でもある程度は成虫の能力を扱える。</p>
+                        <p>人間に「擬態」する能力を持ち、対象にした人物の外見だけでなく、記憶やクセ、身に着けている衣服にいたるまでコピーする。だが、すべてが完全というわけではなく、対ワーム秘密組織「ZECT（ゼクト）」のメンバーは、体温や匂い、肌質の違いなどで人間なのかワームの擬態なのかを判別していた。</p>
+                        <p>擬態した人間は、特別な理由がある場合を除いて始末し、その者に成り代わって人間社会に潜伏。だが、擬態相手の記憶までコピーするためか、なかには擬態した人間そのものだと思い込み、ワームとしての自分を見失い人間として生活してしまうケースもあった。</p>
+                        <p>また、擬態できる数に制限はなく、次々と別の人間に擬態していく個体も存在した。</p>
+                    </div>
+                </div>
+
+                <!-- Stats -->
+                <div class="stats-section">
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-label">身長</span>
+                            <span class="stat-value">214.0cm～</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">体重</span>
+                            <span class="stat-value">124.0kg～</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">特色/力など</span>
+                            <span class="stat-value">人間への擬態、成虫への成長</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">声</span>
+                            <span class="stat-value">－</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Share Buttons -->
+                <div class="share-buttons">
+                    <a href="#" class="share-button twitter">
+                        <span>Twitter</span>
+                    </a>
+                    <a href="#" class="share-button facebook">
+                        <span>Facebook</span>
+                    </a>
+                    <a href="#" class="share-button line">
+                        <span>LINE</span>
+                    </a>
+                </div>
+
+                <!-- Navigation -->
+                <div class="navigation-buttons">
+                    <a href="#" class="nav-button prev">前の怪人</a>
+                    <a href="#" class="nav-button next">次の怪人</a>
+                </div>
+            </div>
+        </main>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <!-- Related Phantoms -->
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">関連する怪人</h3>
+                <ul class="related-links">
+                    <li><a href="#">ワーム（サナギ体・白）</a></li>
+                    <li><a href="#">アラクネアワーム ルボア</a></li>
+                    <li><a href="#">アラクネアワーム ニグリティア</a></li>
+                    <li><a href="#">ランピリスワーム</a></li>
+                    <li><a href="#">ベルクリケタスワーム</a></li>
+                </ul>
+            </div>
+
+            <!-- Related Items -->
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">関連アイテム</h3>
+                <ul class="related-links">
+                    <li><a href="#">カブトゼクター</a></li>
+                    <li><a href="#">ガタックゼクター</a></li>
+                    <li><a href="#">ライダーベルト</a></li>
+                </ul>
+            </div>
+
+            <!-- Related Riders -->
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">この作品の仮面ライダー</h3>
+                <ul class="related-links">
+                    <li><a href="#">仮面ライダーカブト</a></li>
+                    <li><a href="#">仮面ライダーガタック</a></li>
+                    <li><a href="#">仮面ライダードレイク</a></li>
+                    <li><a href="#">仮面ライダーサソード</a></li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-copyright">
+            ©石森プロ・テレビ朝日・ADK EM・東映<br>
+            ©東映・東映ビデオ・石森プロ ©石森プロ・東映
+        </div>
+    </footer>
+
+    <script>
+        // Image gallery functionality
+        const images = ['怪', '戦', '変', '能', '集'];
+        let currentImageIndex = 0;
+        const mainImage = document.getElementById('mainImage');
+        const thumbnails = document.querySelectorAll('.gallery-thumbnail');
+        const prevButton = document.getElementById('prevImage');
+        const nextButton = document.getElementById('nextImage');
+        const currentIndexSpan = document.getElementById('currentIndex');
+
+        function updateMainImage(index) {
+            currentImageIndex = index;
+            mainImage.innerHTML = `<span>${images[index]}</span>`;
+            
+            // Update thumbnails
+            thumbnails.forEach((thumb, i) => {
+                if (i === index) {
+                    thumb.classList.add('active');
+                } else {
+                    thumb.classList.remove('active');
+                }
+            });
+            
+            // Update counter
+            currentIndexSpan.textContent = index + 1;
+            
+            // Update button states
+            prevButton.disabled = index === 0;
+            nextButton.disabled = index === images.length - 1;
+            
+            // Add animation
+            mainImage.style.opacity = '0';
+            setTimeout(() => {
+                mainImage.style.opacity = '1';
+            }, 100);
+        }
+
+        // Thumbnail click handlers
+        thumbnails.forEach((thumb, index) => {
+            thumb.addEventListener('click', () => {
+                updateMainImage(index);
+            });
+        });
+
+        // Navigation button handlers
+        prevButton.addEventListener('click', () => {
+            if (currentImageIndex > 0) {
+                updateMainImage(currentImageIndex - 1);
+            }
+        });
+
+        nextButton.addEventListener('click', () => {
+            if (currentImageIndex < images.length - 1) {
+                updateMainImage(currentImageIndex + 1);
+            }
+        });
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft' && currentImageIndex > 0) {
+                updateMainImage(currentImageIndex - 1);
+            } else if (e.key === 'ArrowRight' && currentImageIndex < images.length - 1) {
+                updateMainImage(currentImageIndex + 1);
+            }
+        });
+
+        // Initialize
+        mainImage.style.transition = 'opacity 0.3s';
+
+        // Share button functionality
+        document.querySelectorAll('.share-button').forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                const type = this.classList[1];
+                console.log(`Sharing to ${type}`);
+            });
+        });
+
+        // Image zoom effect
+        mainImage.addEventListener('click', function() {
+            if (this.style.transform === 'scale(1.5)') {
+                this.style.transform = 'scale(1)';
+                this.style.cursor = 'pointer';
+            } else {
+                this.style.transform = 'scale(1.5)';
+                this.style.cursor = 'zoom-out';
+            }
+        });
+
+        // Smooth scroll for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Navigation button hover effect
+        document.querySelectorAll('.nav-button').forEach(button => {
+            button.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateX(' + (this.classList.contains('prev') ? '-5px' : '5px') + ')';
+            });
+            
+            button.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateX(0)';
+            });
+        });
+    </script>
+</body>
+</html>

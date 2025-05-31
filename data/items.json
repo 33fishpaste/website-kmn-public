@@ -1,0 +1,197 @@
+{
+  "works": {
+    "sc": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sample_item",
+              "name": "サンプルアイテム"
+            },
+            {
+              "id": "sc_item1",
+              "name": "SCアイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {
+        "sample_item": {
+          "name": "サンプルアイテム",
+          "description": [
+            "アイテムの説明。"
+          ]
+        }
+      }
+    },
+    "sc2": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sc2_item1",
+              "name": "SC2アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "sc3": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sc3_item1",
+              "name": "SC3アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "sc4": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sc4_item1",
+              "name": "SC4アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "sc5": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sc5_item1",
+              "name": "SC5アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "sc6": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sc6_item1",
+              "name": "SC6アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "br1": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "br1_item1",
+              "name": "BR1アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "br2": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "br2_item1",
+              "name": "BR2アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "br3": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "br3_item1",
+              "name": "BR3アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "brx": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "brx_item1",
+              "name": "BRXアイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "br4": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "br4_item1",
+              "name": "BR4アイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "kr_kuuga": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "kuuga_item1",
+              "name": "クウガアイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    },
+    "kr_kabuto": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "kabuto_item1",
+              "name": "カブトアイテム1"
+            }
+          ]
+        }
+      ],
+      "items": {}
+    }
+  }
+}

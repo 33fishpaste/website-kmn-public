@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "id": "worm",
+      "icon": "W",
+      "title": "ワーム",
+      "description": "7年前、隕石とともに地球に飛来した地球外生命体",
+      "phantoms": [
+        {"id": "worm_sanagi", "name": "ワーム（サナギ体）"},
+        {"id": "worm_sanagi_white", "name": "ワーム（サナギ体・白）"},
+        {"id": "arachneaworm_luboa", "name": "アラクネアワーム ルボア"},
+        {"id": "arachneaworm_nigritia", "name": "アラクネアワーム ニグリティア"}
+      ]
+    },
+    {
+      "id": "kanbu",
+      "icon": "幹",
+      "title": "幹部ワーム",
+      "description": "ワームの中でも特に強い力をもつ存在",
+      "phantoms": [
+        {"id": "uka_worm", "name": "ウカワーム"},
+        {"id": "cassisworm_dimidius", "name": "カッシスワーム ディミディウス"}
+      ]
+    },
+    {
+      "id": "native",
+      "icon": "N",
+      "title": "ネイティブ",
+      "description": "35年前、隕石とともに地球に飛来した地球外生命体。またはネイティブから生まれた存在",
+      "phantoms": [
+        {"id": "native", "name": "ネイティブ"},
+        {"id": "ccila_worm", "name": "シシーラワーム"}
+      ]
+    }
+  ],
+  "phantoms": {
+    "worm_sanagi": {
+      "kana": "わーむ（さなぎたい）",
+      "name": "ワーム（サナギ体）",
+      "images": ["worm_sanagi_1", "worm_sanagi_2", "worm_sanagi_3", "worm_sanagi_4", "worm_sanagi_5"],
+      "info": [
+        {"label": "登場作品", "value": "<a href='#'>仮面ライダーカブト</a>"},
+        {"label": "初登場回/初登場作品", "value": "第1話『最強男』（2006年1月29日放送）"}
+      ],
+      "description": [
+        "地球外生命体「ワーム」の幼体。",
+        "右腕に備えた鋭い爪を武器にするが、個々の戦闘能力はそれほど高くはなく、集団で行動することが多い。",
+        "条件は不明だが、昆虫や甲殻類の能力を備えた攻撃能力の高い成虫へと変態できる。"
+      ],
+      "stats": [
+        {"label": "身長", "value": "214.0cm～"},
+        {"label": "体重", "value": "124.0kg～"},
+        {"label": "特色/力など", "value": "人間への擬態、成虫への成長"},
+        {"label": "声", "value": "－"}
+      ],
+      "relatedPhantoms": ["worm_sanagi_white", "arachneaworm_luboa", "arachneaworm_nigritia"],
+      "relatedItems": ["カブトゼクター", "ガタックゼクター", "ライダーベルト"],
+      "relatedRiders": ["仮面ライダーカブト", "仮面ライダーガタック", "仮面ライダードレイク", "仮面ライダーサソード"]
+    },
+    "worm_sanagi_white": {
+      "kana": "わーむ（さなぎたい・しろ）",
+      "name": "ワーム（サナギ体・白）",
+      "images": ["worm_sanagi_white_1", "worm_sanagi_white_2"],
+      "info": [
+        {"label": "登場作品", "value": "<a href='#'>仮面ライダーカブト</a>"},
+        {"label": "初登場回/初登場作品", "value": "サンプルエピソード"}
+      ],
+      "description": ["サンプルテキスト。"],
+      "stats": [
+        {"label": "身長", "value": "---"},
+        {"label": "体重", "value": "---"},
+        {"label": "特色/力など", "value": "サンプルテキスト"},
+        {"label": "声", "value": "サンプル"}
+      ],
+      "relatedPhantoms": ["worm_sanagi"],
+      "relatedItems": [],
+      "relatedRiders": []
+    },
+    "arachneaworm_luboa": {
+      "kana": "あらくねあわーむ るぼあ",
+      "name": "アラクネアワーム ルボア",
+      "images": ["arachneaworm_luboa_1"],
+      "info": [
+        {"label": "登場作品", "value": "<a href='#'>仮面ライダーカブト</a>"},
+        {"label": "初登場回/初登場作品", "value": "サンプルエピソード"}
+      ],
+      "description": ["サンプルテキスト。"],
+      "stats": [
+        {"label": "身長", "value": "---"},
+        {"label": "体重", "value": "---"},
+        {"label": "特色/力など", "value": "サンプルテキスト"},
+        {"label": "声", "value": "サンプル"}
+      ],
+      "relatedPhantoms": ["worm_sanagi"],
+      "relatedItems": [],
+      "relatedRiders": []
+    },
+    "arachneaworm_nigritia": {
+      "kana": "あらくねあわーむ にぐりてぃあ",
+      "name": "アラクネアワーム ニグリティア",
+      "images": ["arachneaworm_nigritia_1"],
+      "info": [
+        {"label": "登場作品", "value": "<a href='#'>仮面ライダーカブト</a>"},
+        {"label": "初登場回/初登場作品", "value": "サンプルエピソード"}
+      ],
+      "description": ["サンプルテキスト。"],
+      "stats": [
+        {"label": "身長", "value": "---"},
+        {"label": "体重", "value": "---"},
+        {"label": "特色/力など", "value": "サンプルテキスト"},
+        {"label": "声", "value": "サンプル"}
+      ],
+      "relatedPhantoms": ["worm_sanagi"],
+      "relatedItems": [],
+      "relatedRiders": []
+    }
+  }
+}

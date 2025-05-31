@@ -1,0 +1,1263 @@
+{
+  "works": {
+    "sc": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "sample_sound",
+              "name": "サンプルサウンド"
+            },
+            {
+              "id": "bgm1",
+              "name": "SC BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {
+        "sample_sound": {
+          "name": "サンプルサウンド",
+          "description": [
+            "サウンドの説明。"
+          ],
+          "thumbnail": "sc_sounds_sample_sound_thumbnail",
+          "images": [
+            "sc_sounds_sample_sound_images_1",
+            "sc_sounds_sample_sound_images_2",
+            "sc_sounds_sample_sound_images_3",
+            "sc_sounds_sample_sound_images_4",
+            "sc_sounds_sample_sound_images_5"
+          ]
+        }
+      }
+    },
+    "sc2": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "SC2 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "sc3": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "SC3 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "sc4": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "SC4 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "sc5": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "SC5 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "sc6": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "SC6 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "br1": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "BR1 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "br2": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "BR2 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "br3": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "BR3 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "brx": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "BRX BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "br4": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "items": [
+            {
+              "id": "bgm1",
+              "name": "BR4 BGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "kr_kuuga": {
+      "sub_categories": [
+        {
+          "id": "default",
+          "sounds": [
+            {
+              "id": "kuuga_bgm1",
+              "name": "クウガBGM1"
+            }
+          ]
+        }
+      ],
+      "sounds": {}
+    },
+    "kr_kabuto": {
+      "sub_categories": [
+        {
+          "id": "battle",
+          "icon": "バ",
+          "title": "バトルBGM",
+          "description": "バトル用BGM",
+          "sounds": [
+            {
+              "id": "bgm_r01a",
+              "name": "BGM R01A"
+            },
+            {
+              "id": "bgm_r01b",
+              "name": "BGM R01B"
+            },
+            {
+              "id": "bgm_r01c",
+              "name": "BGM R01C"
+            },
+            {
+              "id": "bgm_r02a",
+              "name": "BGM R02A"
+            },
+            {
+              "id": "bgm_r03a",
+              "name": "BGM R03A"
+            },
+            {
+              "id": "bgm_r04a",
+              "name": "BGM R04A"
+            },
+            {
+              "id": "bgm_r05a",
+              "name": "BGM R05A"
+            },
+            {
+              "id": "bgm_r06a",
+              "name": "BGM R06A"
+            },
+            {
+              "id": "bgm_w01",
+              "name": "BGM W01"
+            },
+            {
+              "id": "bgm_w02",
+              "name": "BGM W02"
+            },
+            {
+              "id": "bgm_w03",
+              "name": "BGM W03"
+            },
+            {
+              "id": "bgm_z01",
+              "name": "BGM Z01"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "icon": "他",
+          "title": "その他BGM",
+          "description": "その他のBGM",
+          "sounds": [
+            {
+              "id": "bgm_b01",
+              "name": "BGM B01"
+            },
+            {
+              "id": "bgm_b02",
+              "name": "BGM B02"
+            },
+            {
+              "id": "bgm_b03",
+              "name": "BGM B03"
+            },
+            {
+              "id": "bgm_da_1",
+              "name": "BGM DA~1"
+            },
+            {
+              "id": "bgm_ex01",
+              "name": "BGM EX01"
+            },
+            {
+              "id": "bgm_ex02",
+              "name": "BGM EX02"
+            },
+            {
+              "id": "bgm_ex03",
+              "name": "BGM EX03"
+            },
+            {
+              "id": "bgm_ex05",
+              "name": "BGM EX05"
+            },
+            {
+              "id": "bgm_ex_1",
+              "name": "BGM EX~1"
+            },
+            {
+              "id": "bgm_mi_1",
+              "name": "BGM MI~1"
+            },
+            {
+              "id": "bgm_open",
+              "name": "BGM OPEN"
+            },
+            {
+              "id": "bgm_op_1",
+              "name": "BGM OP~1"
+            },
+            {
+              "id": "bgm_re_1",
+              "name": "BGM RE~1"
+            },
+            {
+              "id": "bgm_se_1",
+              "name": "BGM SE~1"
+            },
+            {
+              "id": "bgm_se_2",
+              "name": "BGM SE~2"
+            },
+            {
+              "id": "bgm_se_3",
+              "name": "BGM SE~3"
+            },
+            {
+              "id": "bgm_st_1",
+              "name": "BGM ST~1"
+            },
+            {
+              "id": "bgm_ti_1",
+              "name": "BGM TI~1"
+            }
+          ]
+        }
+      ],
+      "sounds": {
+        "bgm_r01a": {
+          "kana": "",
+          "name": "BGM R01A",
+          "sound": "kr_kabuto_bgm_r01a_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r01a_images_1",
+            "kr_kabuto_sounds_bgm_r01a_images_2",
+            "kr_kabuto_sounds_bgm_r01a_images_3",
+            "kr_kabuto_sounds_bgm_r01a_images_4",
+            "kr_kabuto_sounds_bgm_r01a_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r01a_thumbnail"
+        },
+        "bgm_r01b": {
+          "kana": "",
+          "name": "BGM R01B",
+          "sound": "kr_kabuto_bgm_r01b_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r01b_images_1",
+            "kr_kabuto_sounds_bgm_r01b_images_2",
+            "kr_kabuto_sounds_bgm_r01b_images_3",
+            "kr_kabuto_sounds_bgm_r01b_images_4",
+            "kr_kabuto_sounds_bgm_r01b_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r01b_thumbnail"
+        },
+        "bgm_r01c": {
+          "kana": "",
+          "name": "BGM R01C",
+          "sound": "kr_kabuto_bgm_r01c_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r01c_images_1",
+            "kr_kabuto_sounds_bgm_r01c_images_2",
+            "kr_kabuto_sounds_bgm_r01c_images_3",
+            "kr_kabuto_sounds_bgm_r01c_images_4",
+            "kr_kabuto_sounds_bgm_r01c_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r01c_thumbnail"
+        },
+        "bgm_r02a": {
+          "kana": "",
+          "name": "BGM R02A",
+          "sound": "kr_kabuto_bgm_r02a_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r02a_images_1",
+            "kr_kabuto_sounds_bgm_r02a_images_2",
+            "kr_kabuto_sounds_bgm_r02a_images_3",
+            "kr_kabuto_sounds_bgm_r02a_images_4",
+            "kr_kabuto_sounds_bgm_r02a_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r02a_thumbnail"
+        },
+        "bgm_r03a": {
+          "kana": "",
+          "name": "BGM R03A",
+          "sound": "kr_kabuto_bgm_r03a_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r03a_images_1",
+            "kr_kabuto_sounds_bgm_r03a_images_2",
+            "kr_kabuto_sounds_bgm_r03a_images_3",
+            "kr_kabuto_sounds_bgm_r03a_images_4",
+            "kr_kabuto_sounds_bgm_r03a_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r03a_thumbnail"
+        },
+        "bgm_r04a": {
+          "kana": "",
+          "name": "BGM R04A",
+          "sound": "kr_kabuto_bgm_r04a_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r04a_images_1",
+            "kr_kabuto_sounds_bgm_r04a_images_2",
+            "kr_kabuto_sounds_bgm_r04a_images_3",
+            "kr_kabuto_sounds_bgm_r04a_images_4",
+            "kr_kabuto_sounds_bgm_r04a_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r04a_thumbnail"
+        },
+        "bgm_r05a": {
+          "kana": "",
+          "name": "BGM R05A",
+          "sound": "kr_kabuto_bgm_r05a_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r05a_images_1",
+            "kr_kabuto_sounds_bgm_r05a_images_2",
+            "kr_kabuto_sounds_bgm_r05a_images_3",
+            "kr_kabuto_sounds_bgm_r05a_images_4",
+            "kr_kabuto_sounds_bgm_r05a_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r05a_thumbnail"
+        },
+        "bgm_r06a": {
+          "kana": "",
+          "name": "BGM R06A",
+          "sound": "kr_kabuto_bgm_r06a_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_r06a_images_1",
+            "kr_kabuto_sounds_bgm_r06a_images_2",
+            "kr_kabuto_sounds_bgm_r06a_images_3",
+            "kr_kabuto_sounds_bgm_r06a_images_4",
+            "kr_kabuto_sounds_bgm_r06a_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_r06a_thumbnail"
+        },
+        "bgm_w01": {
+          "kana": "",
+          "name": "BGM W01",
+          "sound": "kr_kabuto_bgm_w01_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_w01_images_1",
+            "kr_kabuto_sounds_bgm_w01_images_2",
+            "kr_kabuto_sounds_bgm_w01_images_3",
+            "kr_kabuto_sounds_bgm_w01_images_4",
+            "kr_kabuto_sounds_bgm_w01_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_w01_thumbnail"
+        },
+        "bgm_w02": {
+          "kana": "",
+          "name": "BGM W02",
+          "sound": "kr_kabuto_bgm_w02_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_w02_images_1",
+            "kr_kabuto_sounds_bgm_w02_images_2",
+            "kr_kabuto_sounds_bgm_w02_images_3",
+            "kr_kabuto_sounds_bgm_w02_images_4",
+            "kr_kabuto_sounds_bgm_w02_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_w02_thumbnail"
+        },
+        "bgm_w03": {
+          "kana": "",
+          "name": "BGM W03",
+          "sound": "kr_kabuto_bgm_w03_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_w03_images_1",
+            "kr_kabuto_sounds_bgm_w03_images_2",
+            "kr_kabuto_sounds_bgm_w03_images_3",
+            "kr_kabuto_sounds_bgm_w03_images_4",
+            "kr_kabuto_sounds_bgm_w03_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_w03_thumbnail"
+        },
+        "bgm_z01": {
+          "kana": "",
+          "name": "BGM Z01",
+          "sound": "kr_kabuto_bgm_z01_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_z01_images_1",
+            "kr_kabuto_sounds_bgm_z01_images_2",
+            "kr_kabuto_sounds_bgm_z01_images_3",
+            "kr_kabuto_sounds_bgm_z01_images_4",
+            "kr_kabuto_sounds_bgm_z01_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_z01_thumbnail"
+        },
+        "bgm_b01": {
+          "kana": "",
+          "name": "BGM B01",
+          "sound": "kr_kabuto_bgm_b01_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_b01_images_1",
+            "kr_kabuto_sounds_bgm_b01_images_2",
+            "kr_kabuto_sounds_bgm_b01_images_3",
+            "kr_kabuto_sounds_bgm_b01_images_4",
+            "kr_kabuto_sounds_bgm_b01_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_b01_thumbnail"
+        },
+        "bgm_b02": {
+          "kana": "",
+          "name": "BGM B02",
+          "sound": "kr_kabuto_bgm_b02_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_b02_images_1",
+            "kr_kabuto_sounds_bgm_b02_images_2",
+            "kr_kabuto_sounds_bgm_b02_images_3",
+            "kr_kabuto_sounds_bgm_b02_images_4",
+            "kr_kabuto_sounds_bgm_b02_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_b02_thumbnail"
+        },
+        "bgm_b03": {
+          "kana": "",
+          "name": "BGM B03",
+          "sound": "kr_kabuto_bgm_b03_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_b03_images_1",
+            "kr_kabuto_sounds_bgm_b03_images_2",
+            "kr_kabuto_sounds_bgm_b03_images_3",
+            "kr_kabuto_sounds_bgm_b03_images_4",
+            "kr_kabuto_sounds_bgm_b03_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_b03_thumbnail"
+        },
+        "bgm_da_1": {
+          "kana": "",
+          "name": "BGM DA~1",
+          "sound": "kr_kabuto_bgm_da_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_da_1_images_1",
+            "kr_kabuto_sounds_bgm_da_1_images_2",
+            "kr_kabuto_sounds_bgm_da_1_images_3",
+            "kr_kabuto_sounds_bgm_da_1_images_4",
+            "kr_kabuto_sounds_bgm_da_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_da_1_thumbnail"
+        },
+        "bgm_ex01": {
+          "kana": "",
+          "name": "BGM EX01",
+          "sound": "kr_kabuto_bgm_ex01_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_ex01_images_1",
+            "kr_kabuto_sounds_bgm_ex01_images_2",
+            "kr_kabuto_sounds_bgm_ex01_images_3",
+            "kr_kabuto_sounds_bgm_ex01_images_4",
+            "kr_kabuto_sounds_bgm_ex01_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_ex01_thumbnail"
+        },
+        "bgm_ex02": {
+          "kana": "",
+          "name": "BGM EX02",
+          "sound": "kr_kabuto_bgm_ex02_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_ex02_images_1",
+            "kr_kabuto_sounds_bgm_ex02_images_2",
+            "kr_kabuto_sounds_bgm_ex02_images_3",
+            "kr_kabuto_sounds_bgm_ex02_images_4",
+            "kr_kabuto_sounds_bgm_ex02_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_ex02_thumbnail"
+        },
+        "bgm_ex03": {
+          "kana": "",
+          "name": "BGM EX03",
+          "sound": "kr_kabuto_bgm_ex03_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_ex03_images_1",
+            "kr_kabuto_sounds_bgm_ex03_images_2",
+            "kr_kabuto_sounds_bgm_ex03_images_3",
+            "kr_kabuto_sounds_bgm_ex03_images_4",
+            "kr_kabuto_sounds_bgm_ex03_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_ex03_thumbnail"
+        },
+        "bgm_ex05": {
+          "kana": "",
+          "name": "BGM EX05",
+          "sound": "kr_kabuto_bgm_ex05_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_ex05_images_1",
+            "kr_kabuto_sounds_bgm_ex05_images_2",
+            "kr_kabuto_sounds_bgm_ex05_images_3",
+            "kr_kabuto_sounds_bgm_ex05_images_4",
+            "kr_kabuto_sounds_bgm_ex05_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_ex05_thumbnail"
+        },
+        "bgm_ex_1": {
+          "kana": "",
+          "name": "BGM EX~1",
+          "sound": "kr_kabuto_bgm_ex_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_ex_1_images_1",
+            "kr_kabuto_sounds_bgm_ex_1_images_2",
+            "kr_kabuto_sounds_bgm_ex_1_images_3",
+            "kr_kabuto_sounds_bgm_ex_1_images_4",
+            "kr_kabuto_sounds_bgm_ex_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_ex_1_thumbnail"
+        },
+        "bgm_mi_1": {
+          "kana": "",
+          "name": "BGM MI~1",
+          "sound": "kr_kabuto_bgm_mi_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_mi_1_images_1",
+            "kr_kabuto_sounds_bgm_mi_1_images_2",
+            "kr_kabuto_sounds_bgm_mi_1_images_3",
+            "kr_kabuto_sounds_bgm_mi_1_images_4",
+            "kr_kabuto_sounds_bgm_mi_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_mi_1_thumbnail"
+        },
+        "bgm_open": {
+          "kana": "",
+          "name": "BGM OPEN",
+          "sound": "kr_kabuto_bgm_open_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_open_images_1",
+            "kr_kabuto_sounds_bgm_open_images_2",
+            "kr_kabuto_sounds_bgm_open_images_3",
+            "kr_kabuto_sounds_bgm_open_images_4",
+            "kr_kabuto_sounds_bgm_open_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_open_thumbnail"
+        },
+        "bgm_op_1": {
+          "kana": "",
+          "name": "BGM OP~1",
+          "sound": "kr_kabuto_bgm_op_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_op_1_images_1",
+            "kr_kabuto_sounds_bgm_op_1_images_2",
+            "kr_kabuto_sounds_bgm_op_1_images_3",
+            "kr_kabuto_sounds_bgm_op_1_images_4",
+            "kr_kabuto_sounds_bgm_op_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_op_1_thumbnail"
+        },
+        "bgm_re_1": {
+          "kana": "",
+          "name": "BGM RE~1",
+          "sound": "kr_kabuto_bgm_re_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_re_1_images_1",
+            "kr_kabuto_sounds_bgm_re_1_images_2",
+            "kr_kabuto_sounds_bgm_re_1_images_3",
+            "kr_kabuto_sounds_bgm_re_1_images_4",
+            "kr_kabuto_sounds_bgm_re_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_re_1_thumbnail"
+        },
+        "bgm_se_1": {
+          "kana": "",
+          "name": "BGM SE~1",
+          "sound": "kr_kabuto_bgm_se_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_se_1_images_1",
+            "kr_kabuto_sounds_bgm_se_1_images_2",
+            "kr_kabuto_sounds_bgm_se_1_images_3",
+            "kr_kabuto_sounds_bgm_se_1_images_4",
+            "kr_kabuto_sounds_bgm_se_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_se_1_thumbnail"
+        },
+        "bgm_se_2": {
+          "kana": "",
+          "name": "BGM SE~2",
+          "sound": "kr_kabuto_bgm_se_2_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_se_2_images_1",
+            "kr_kabuto_sounds_bgm_se_2_images_2",
+            "kr_kabuto_sounds_bgm_se_2_images_3",
+            "kr_kabuto_sounds_bgm_se_2_images_4",
+            "kr_kabuto_sounds_bgm_se_2_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_se_2_thumbnail"
+        },
+        "bgm_se_3": {
+          "kana": "",
+          "name": "BGM SE~3",
+          "sound": "kr_kabuto_bgm_se_3_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_se_3_images_1",
+            "kr_kabuto_sounds_bgm_se_3_images_2",
+            "kr_kabuto_sounds_bgm_se_3_images_3",
+            "kr_kabuto_sounds_bgm_se_3_images_4",
+            "kr_kabuto_sounds_bgm_se_3_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_se_3_thumbnail"
+        },
+        "bgm_st_1": {
+          "kana": "",
+          "name": "BGM ST~1",
+          "sound": "kr_kabuto_bgm_st_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_st_1_images_1",
+            "kr_kabuto_sounds_bgm_st_1_images_2",
+            "kr_kabuto_sounds_bgm_st_1_images_3",
+            "kr_kabuto_sounds_bgm_st_1_images_4",
+            "kr_kabuto_sounds_bgm_st_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_st_1_thumbnail"
+        },
+        "bgm_ti_1": {
+          "kana": "",
+          "name": "BGM TI~1",
+          "sound": "kr_kabuto_bgm_ti_1_sound",
+          "images": [
+            "kr_kabuto_sounds_bgm_ti_1_images_1",
+            "kr_kabuto_sounds_bgm_ti_1_images_2",
+            "kr_kabuto_sounds_bgm_ti_1_images_3",
+            "kr_kabuto_sounds_bgm_ti_1_images_4",
+            "kr_kabuto_sounds_bgm_ti_1_images_5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "仮面ライダーカブト"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "????"
+            }
+          ],
+          "description": [
+            "????"
+          ],
+          "stats": [],
+          "relatedCharacters": [],
+          "relatedItems": [],
+          "relatedStages": [],
+          "relatedSounds": [],
+          "thumbnail": "kr_kabuto_sounds_bgm_ti_1_thumbnail"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>データリセット | ゲーム図鑑</title>
+    <link rel="stylesheet" href="css/sample-phantoms-layout.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">ゲーム図鑑</a>
+            <nav class="header-nav">
+                <a href="image_resources.html">画像リソース編集</a>
+                <a href="sound_resources.html">音源リソース編集</a>
+                <a href="reset.html">データリセット</a>
+            </nav>
+        </div>
+    </header>
+    <main class="content-area" style="margin-top:80px">
+        <h1>IndexedDBデータリセット</h1>
+        <button id="clearBtn">データをクリア</button>
+        <button id="storeBtn">デフォルトデータ取得</button>
+        <button id="exportImageBtn">画像リソース書き出し</button>
+        <button id="exportSoundBtn">音源リソース書き出し</button>
+        <input type="file" id="filesInput" accept=".json" multiple>
+        <div id="status"></div>
+    </main>
+    <script src="js/db.js"></script>
+    <script>
+    document.getElementById('clearBtn').addEventListener('click', async () => {
+        await window.DBUtil.clearAll();
+        document.getElementById('status').textContent = 'データを削除しました';
+    });
+    document.getElementById('storeBtn').addEventListener('click', async () => {
+        const files = [
+          'categories.json',
+          'characters.json',
+          'image_resources.json',
+          'items.json',
+          'phantoms.json',
+          'series.json',
+          'sounds.json',
+          'stages.json',
+          'techniques.json',
+          'works.json'
+        ];
+        await Promise.all(files.map(f => window.DBUtil.getJson(f)));
+        document.getElementById('status').textContent = 'デフォルトデータを読み込みました';
+    });
+
+    function download(data, name) {
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = name;
+        a.click();
+        URL.revokeObjectURL(url);
+    }
+
+    document.getElementById('exportImageBtn').addEventListener('click', async () => {
+        const data = await window.DBUtil.getJson('image_resources.json').catch(() => ({ images: [] }));
+        download(data, 'image_resources.json');
+    });
+
+    document.getElementById('exportSoundBtn').addEventListener('click', async () => {
+        const data = await window.DBUtil.getJson('sound-resources.json').catch(() => ({ sounds: [] }));
+        download(data, 'sound-resources.json');
+    });
+
+    function readFile(file) {
+        return new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = () => resolve(reader.result);
+            reader.onerror = () => reject(reader.error);
+            reader.readAsText(file);
+        });
+    }
+
+    document.getElementById('filesInput').addEventListener('change', async (e) => {
+        const files = Array.from(e.target.files);
+        let count = 0;
+        for (const file of files) {
+            try {
+                const text = await readFile(file);
+                const data = JSON.parse(text);
+                await window.DBUtil.putJson(file.name, data);
+                count++;
+            } catch (err) {
+                console.error(err);
+            }
+        }
+        document.getElementById('status').textContent = `${count} ファイルを読み込みました`;
+    });
+    </script>
+</body>
+</html>

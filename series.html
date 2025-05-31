@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>シリーズ一覧 | ゲーム図鑑</title>
+    <link rel="stylesheet" href="css/sample-phantoms-layout.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">ゲーム図鑑</a>
+            <nav class="header-nav">
+                <a href="image_resources.html">画像リソース編集</a>
+                <a href="reset.html">データリセット</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="breadcrumb">
+        <div class="breadcrumb-container">
+            <div class="breadcrumb-list">
+                <a href="index.html">ホーム</a>
+                <span class="breadcrumb-separator">></span>
+                <span id="seriesBreadcrumb"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <div class="sidebar-header">シリーズで絞り込む</div>
+                <div class="sidebar-content">
+                    <div class="series-selector">
+                        <select id="series-select">
+                        <option value="">全てのシリーズ</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="sidebar-section">
+                <div class="sidebar-header">表示カテゴリー</div>
+                <div class="sidebar-content" id="category-filters"></div>
+            </div>
+            <div class="sidebar-section">
+                <div class="sidebar-header">キーワード検索</div>
+                <div class="sidebar-content">
+                    <div class="search-box">
+                        <input type="text" class="search-input" placeholder="名前で検索">
+                        <button class="search-button">検索</button>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <main class="content-area">
+            <div class="page-title">
+                <h1 id="seriesName"></h1>
+            </div>
+            <div id="seriesSections"></div>
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-copyright">
+            © Example Corp.<br>
+            © Example Corp.
+        </div>
+    </footer>
+
+    <script src="js/db.js"></script>
+    <script src="js/series.js"></script>
+</body>
+</html>

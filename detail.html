@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>詳細 | ゲーム図鑑</title>
+    <link rel="stylesheet" href="css/sample-phantom-detail.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">ゲーム図鑑</a>
+            <nav class="header-nav">
+                <a href="index.html">ホーム</a>
+                <a href="category.html?category=character">キャラクター</a>
+                <a href="category.html?category=item">アイテム</a>
+                <a href="category.html?category=stage">ステージ</a>
+                <a href="series.html">シリーズ</a>
+                <a href="image_resources.html">画像リソース編集</a>
+                <a href="reset.html">データリセット</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <div class="breadcrumb-container">
+            <div class="breadcrumb-list" id="breadcrumbList">
+                <a href="index.html">ホーム</a>
+                <span class="breadcrumb-separator">></span>
+                <a href="category.html" id="breadcrumbCategoryLink"></a>
+                <span class="breadcrumb-separator">></span>
+                <span id="breadcrumbName"></span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="main-container">
+        <!-- Content Area -->
+        <main class="content-area" id="detailContainer"></main>
+
+        <!-- Sidebar -->
+        <aside class="sidebar" id="detailSidebar"></aside>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-copyright">
+            © Example Corp.<br>
+            © Example Corp.
+        </div>
+    </footer>
+
+    <script src="js/db.js"></script>
+    <script src="js/detail.js"></script>
+</body>
+</html>

@@ -1,0 +1,2957 @@
+{
+  "works": {
+    "kr_kabuto": {
+      "sub_categories": [
+        {
+          "id": "worm",
+          "icon": "W",
+          "title": "ワーム",
+          "description": "7年前、隕石とともに地球に飛来した地球外生命体",
+          "characters": [
+            {
+              "id": "worm_sanagi",
+              "name": "ワーム（サナギ体）"
+            },
+            {
+              "id": "worm_sanagi_white",
+              "name": "ワーム（サナギ体・白）"
+            },
+            {
+              "id": "worm_sanagi_movie",
+              "name": "ワーム（サナギ体・劇場版）"
+            },
+            {
+              "id": "arachneaworm_luboa",
+              "name": "アラクネアワーム ルボア"
+            },
+            {
+              "id": "arachneaworm_nigritia",
+              "name": "アラクネアワーム ニグリティア"
+            },
+            {
+              "id": "arachneaworm_flabas",
+              "name": "アラクネアワーム フラバス"
+            },
+            {
+              "id": "lampyrisworm",
+              "name": "ランピリスワーム"
+            },
+            {
+              "id": "belcricketasworm",
+              "name": "ベルクリケタスワーム"
+            },
+            {
+              "id": "epilacnaworm",
+              "name": "エピラクナワーム"
+            },
+            {
+              "id": "plexworm",
+              "name": "プレクスワーム"
+            },
+            {
+              "id": "belbaworm",
+              "name": "ベルバーワーム"
+            },
+            {
+              "id": "belbaworm_rota",
+              "name": "ベルバーワーム ロタ"
+            },
+            {
+              "id": "coleopteraworm_croseus",
+              "name": "コレオプテラワーム クロセウス"
+            },
+            {
+              "id": "coleopteraworm_argentum",
+              "name": "コレオプテラワーム アージェンタム"
+            },
+            {
+              "id": "coleopteraworm_aeneus",
+              "name": "コレオプテラワーム アエネウス"
+            },
+            {
+              "id": "muscaworm",
+              "name": "ミュスカワーム"
+            },
+            {
+              "id": "sectioworm",
+              "name": "セクティオワーム"
+            },
+            {
+              "id": "sectioworm_aquere",
+              "name": "セクティオワーム アクエレ"
+            },
+            {
+              "id": "formicaalbusworm",
+              "name": "フォルミカアルビュスワーム"
+            },
+            {
+              "id": "formicaalbusworm_maxilla",
+              "name": "フォルミカアルビュスワーム マキシラ"
+            },
+            {
+              "id": "formicaalbusworm_oculus",
+              "name": "フォルミカアルビュスワーム オキュルス"
+            },
+            {
+              "id": "bielaworm",
+              "name": "ビエラワーム"
+            },
+            {
+              "id": "sepulturaworm",
+              "name": "セパルチュラワーム"
+            },
+            {
+              "id": "brachypelmaworm_viridis",
+              "name": "ブラキペルマワーム ビリディス"
+            },
+            {
+              "id": "brachypelmaworm_aurantum",
+              "name": "ブラキペルマワーム オーランタム"
+            },
+            {
+              "id": "tarantesworm_purpura",
+              "name": "タランテスワーム パープラ"
+            },
+            {
+              "id": "geophilidworm",
+              "name": "ジオフィリドワーム"
+            },
+            {
+              "id": "genomiasworm",
+              "name": "ジェノミアスワーム"
+            },
+            {
+              "id": "acarinaworm",
+              "name": "アキャリナワーム"
+            },
+            {
+              "id": "acarinaworm_amber",
+              "name": "アキャリナワーム アンバー"
+            },
+            {
+              "id": "culexworm",
+              "name": "キュレックスワーム"
+            },
+            {
+              "id": "foriatassworm",
+              "name": "フォリアタスワーム"
+            },
+            {
+              "id": "camarasworm",
+              "name": "キャマラスワーム"
+            },
+            {
+              "id": "cokiliaworm",
+              "name": "コキリアワーム"
+            },
+            {
+              "id": "leptophisworm",
+              "name": "レプトーフィスワーム"
+            },
+            {
+              "id": "subustworm",
+              "name": "サブストワーム"
+            },
+            {
+              "id": "camponotusworm_maxilla",
+              "name": "カンポノタスワーム マキシラ"
+            },
+            {
+              "id": "camponotusworm_oculus",
+              "name": "カンポノタスワーム オキュルス"
+            }
+          ]
+        },
+        {
+          "id": "kanbu",
+          "icon": "幹",
+          "title": "幹部ワーム",
+          "description": "ワームの中でも特に強い力をもつ存在",
+          "characters": [
+            {
+              "id": "ukaworm",
+              "name": "ウカワーム"
+            },
+            {
+              "id": "cassisworm_dimidius",
+              "name": "カッシスワーム ディミディウス"
+            },
+            {
+              "id": "cassisworm_gladius",
+              "name": "カッシスワーム グラディウス"
+            },
+            {
+              "id": "cassisworm_crypeus",
+              "name": "カッシスワーム クリペウス"
+            },
+            {
+              "id": "scorpioworm",
+              "name": "スコルピオワーム"
+            }
+          ]
+        },
+        {
+          "id": "native",
+          "icon": "N",
+          "title": "ネイティブ",
+          "description": "35年前、隕石とともに地球に飛来した地球外生命体。またはネイティブから生まれた存在",
+          "characters": [
+            {
+              "id": "native",
+              "name": "ネイティブ"
+            },
+            {
+              "id": "ciciraworm",
+              "name": "シシーラワーム"
+            },
+            {
+              "id": "grilasworm",
+              "name": "グリラスワーム"
+            }
+          ]
+        }
+      ],
+      "characters": {
+        "worm_sanagi": {
+          "kana": "わーむ（さなぎたい）",
+          "name": "ワーム（サナギ体）",
+          "images": [
+            "kr_kabuto_characters_worm_sanagi_images1",
+            "kr_kabuto_characters_worm_sanagi_images2",
+            "kr_kabuto_characters_worm_sanagi_images3",
+            "kr_kabuto_characters_worm_sanagi_images4",
+            "kr_kabuto_characters_worm_sanagi_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第1話『最強男』（2006年1月29日放送）"
+            }
+          ],
+          "description": [
+            "地球外生命体「ワーム」の幼体。",
+            "両手を頬に添えた骸骨のような顔を包むフードのような頭部、昆虫を思わせる節だった手足、さらには体色は緑と普通の人であれば嫌悪感を抱くような外見をしている。",
+            "右腕に備えた鋭い爪を武器にするが、個々の戦闘能力はそれほど高くはなく、集団で行動することが多い。",
+            "条件は不明だが、昆虫や甲殻類の能力を備えた攻撃能力の高い成虫へと変態でき、その直前には体色が茶色に変化し体温が急激に上昇。外皮が崩れ落ちる脱皮のような形で成虫のワームが出現する。",
+            "また、アラクネアワーム ルボアなど一部のワームは、成虫になったあとにサナギ体の姿に戻ることもあり、サナギ体の姿でもある程度は成虫の能力を扱える。",
+            "人間に「擬態」する能力を持ち、対象にした人物の外見だけでなく、記憶やクセ、身に着けている衣服にいたるまでコピーする。だが、すべてが完全というわけではなく、対ワーム秘密組織「ZECT（ゼクト）」のメンバーは、体温や匂い、肌質の違いなどで人間なのかワームの擬態なのかを判別していた。",
+            "擬態した人間は、特別な理由がある場合を除いて始末し、その者に成り代わって人間社会に潜伏。だが、擬態相手の記憶までコピーするためか、なかには擬態した人間そのものだと思い込み、ワームとしての自分を見失い人間として生活してしまうケースもあった。",
+            "また、擬態できる数に制限はなく、次々と別の人間に擬態していく個体も存在した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "214.0cm～"
+            },
+            {
+              "label": "体重",
+              "value": "124.0kg～"
+            },
+            {
+              "label": "特色/力など",
+              "value": "人間への擬態、成虫への成長"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi_white",
+            "arachneaworm_luboa",
+            "arachneaworm_nigritia"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_worm_sanagi_thumbnail"
+        },
+        "worm_sanagi_white": {
+          "kana": "わーむ（さなぎたい しろ）",
+          "name": "ワーム（サナギ体・白）",
+          "images": [
+            "kr_kabuto_characters_worm_sanagi_white_images1",
+            "kr_kabuto_characters_worm_sanagi_white_images2",
+            "kr_kabuto_characters_worm_sanagi_white_images3",
+            "kr_kabuto_characters_worm_sanagi_white_images4",
+            "kr_kabuto_characters_worm_sanagi_white_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第14話『裏の裏の裏』（2006年4月30日放送）"
+            }
+          ],
+          "description": [
+            "ワーム（サナギ体）の変異種。通常のワーム（サナギ体）と身体の形状は同じだが、白い体色をしている。",
+            "非常にレアな個体で、ワーム（サナギ体）よりも優れた能力を有しており、「クロックアップ」を発動して超高速移動をするワームの成虫や仮面ライダーの姿を視認することができる。",
+            "対ワーム秘密組織「ZECT（ゼクト）」の精鋭部隊「シャドウ」の隊員である井口浩二と結託し、内通者となった彼を守ることを条件に次々とシャドウの元隊員たちを襲った。",
+            "その後、仮面ライダーカブト ライダーフォームと戦うもクロックアップを発動され、超高速空間の中でカブトクナイガン クナイモードの連続斬撃で刻まれてしまう。さらに突如現れた仮面ライダードレイク ライダーフォームの発動した「ライダーシューティング」により放たれた光弾の直撃を背後から受け、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "214.0cm～"
+            },
+            {
+              "label": "体重",
+              "value": "124.0kg～"
+            },
+            {
+              "label": "特色/力など",
+              "value": "擬態能力、クロックアップした存在を視認可能"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_worm_sanagi_white_thumbnail"
+        },
+        "arachneaworm_luboa": {
+          "kana": "あらくねわーむ るぼあ",
+          "name": "アラクネアワーム ルボア",
+          "images": [
+            "kr_kabuto_characters_arachneaworm_luboa_images1",
+            "kr_kabuto_characters_arachneaworm_luboa_images2",
+            "kr_kabuto_characters_arachneaworm_luboa_images3",
+            "kr_kabuto_characters_arachneaworm_luboa_images4",
+            "kr_kabuto_characters_arachneaworm_luboa_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第1話『最強男』（2006年1月29日放送）"
+            }
+          ],
+          "description": [
+            "クモに似た特徴をもつワームの成虫。同種にアラクネアワーム ニグリティア、アラクネアワーム フラバスがいる。",
+            "体色は青紫をベースに放射状の赤いラインが全身に描かれている。胸部と腕部には赤いドクロのような模様も確認でき、不気味さを引き立たせている。",
+            "粘性のある蜘蛛の糸ようなものを口や腕から発射でき、これで対象を絡め取るだけでなく、細く鋭く伸ばすことで針のように突き刺すこともできる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワーム（サナギ体）の状態で湾岸の倉庫で仕事中の警備員を襲撃。駆けつけた対ワーム秘密組織「ZECT（ゼクト）」の兵士、ゼクトルーパーたちとの戦闘中に成虫へと変態した。",
+            "その後、警備員の姿に擬態し湾岸の倉庫で行動していたが、自身を見張っていたふたりの刑事を襲うと今度は刑事Aへと擬態する。",
+            "最終的には天道総司＝仮面ライダーカブト マスクドフォームと戦闘。クロックアップを発動して一時的に優位に立つも、瓦礫の中にあった鏡を割って破片を戦闘空間に散らしてカブトクナイガン ガンモードのレーザーポインターの光を乱反射させるというカブト マスクドフォームの繰り出した奇策により動きを止められ、続けてカブトクナイガン アックスモードの刃を腹部に受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "218.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "128.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、糸を伸ばす"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "arachneaworm_nigritia",
+            "arachneaworm_flabas"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_arachneaworm_luboa_thumbnail"
+        },
+        "arachneaworm_nigritia": {
+          "kana": "あらくねわーむ にぐりてぃあ",
+          "name": "アラクネアワーム ニグリティア",
+          "images": [
+            "kr_kabuto_characters_arachneaworm_nigritia_images1",
+            "kr_kabuto_characters_arachneaworm_nigritia_images2",
+            "kr_kabuto_characters_arachneaworm_nigritia_images3",
+            "kr_kabuto_characters_arachneaworm_nigritia_images4",
+            "kr_kabuto_characters_arachneaworm_nigritia_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第1話『最強男』（2006年1月29日放送）"
+            }
+          ],
+          "description": [
+            "クモに似た特徴をもつワームの成虫。同種にアラクネアワーム ルボア、アラクネアワーム フラバスがいる。",
+            "体色は白をベースに放射状の黒いラインが全身に描かれており、胸部と腕部の模様は黒いドクロのようにも見える。",
+            "粘性のある蜘蛛の糸ようなものを腕や口から発射でき、これで対象を絡め取って締め付ける。糸の強度は非常に高く、中型車程度であれば絡め取って持ち上げ、軽々と投げ飛ばしてしまう。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワーム（サナギ体）の状態で湾岸の倉庫で仕事中の警備員を襲撃。駆けつけた対ワーム秘密組織「ZECT（ゼクト）」の兵士、ゼクトルーパーたちとの戦闘中に成虫へと変態した。",
+            "その後、ZECTに所属する仮面ライダーカブトの変身資格者を亡き者にして彼に擬態すると、天道総司の命を狙う。",
+            "アラクネアワーム フラバスとともにクロックアップを発動して天道の変身した仮面ライダーカブト マスクドフォームを体当たりで吹き飛ばすも、カブト マスクドフォームは「キャストオフ」を発動し、仮面ライダーカブト ライダーフォームへとフォームチェンジ。",
+            "互いにクロックアップを駆使した超高速戦闘の果てに、最後はカブト ライダーフォームが放った「ライダーキック」を右側頭部に受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "214.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "122.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、糸を伸ばす"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "arachneaworm_luboa",
+            "arachneaworm_flabas"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_arachneaworm_nigritia_thumbnail"
+        },
+        "arachneaworm_flabas": {
+          "kana": "あらくねあわーむ ふらばす",
+          "name": "アラクネアワーム フラバス",
+          "images": [
+            "kr_kabuto_characters_arachneaworm_flabas_images1",
+            "kr_kabuto_characters_arachneaworm_flabas_images2",
+            "kr_kabuto_characters_arachneaworm_flabas_images3",
+            "kr_kabuto_characters_arachneaworm_flabas_images4",
+            "kr_kabuto_characters_arachneaworm_flabas_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第1話『最強男』（2006年1月29日放送）"
+            }
+          ],
+          "description": [
+            "クモに似た特徴をもつワームの成虫。同種にアラクネアワーム ルボア、アラクネアワーム ニグリティアがいる。",
+            "体色は黒をベースに放射状のオレンジのラインが全身に描かれており、胸部や腕部にはドクロのような模様も確認できる。",
+            "口や腕から粘性のある蜘蛛の糸ようなものを発射でき、これで対象を絡め取って締め付ける。糸の強度は非常に高く、中型車程度であれば糸の先で絡め取って持ち上げ、軽々と投げ飛ばしてしまう。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワーム（サナギ体）の状態で湾岸の倉庫で仕事中の警備員を襲撃。駆けつけた対ワーム秘密組織「ZECT（ゼクト）」の兵士、ゼクトルーパーたちとの戦闘中に成虫へと変態した。",
+            "その後、アラクネアワーム ニグリティアと連携し、仮面ライダーカブト マスクドフォームと交戦。",
+            "カブト マスクドフォームが「キャストオフ」を発動し、仮面ライダーカブト ライダーフォームへとフォームチェンジするのを確認すると、クロックアップを発動する。だが、カブト ライダーフォームもそれを追ってクロックアップを発動し、超高速空間の中で激しい格闘戦を展開。高々とジャンプして太陽を背にしたカブト ライダーフォームの輝きに目を眩ませられると、落下の勢いのままカブトクナイガン クナイモードの刃で胸を貫かれ、クロックアップが終了する「クロックオーバー」と同時に消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "221.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "131.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から糸を発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "arachneaworm_luboa",
+            "arachneaworm_nigritia"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_arachneaworm_flabas_thumbnail"
+        },
+        "lampyrisworm": {
+          "kana": "らんぴりすわーむ",
+          "name": "ランピリスワーム",
+          "images": [
+            "kr_kabuto_characters_lampyrisworm_images1",
+            "kr_kabuto_characters_lampyrisworm_images2",
+            "kr_kabuto_characters_lampyrisworm_images3",
+            "kr_kabuto_characters_lampyrisworm_images4",
+            "kr_kabuto_characters_lampyrisworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第3話『俺が正義!!』（2006年2月12日放送）"
+            }
+          ],
+          "description": [
+            "ホタルに似た特徴をもつワームの成虫。",
+            "緑と黒の体色をしており、背中は昆虫の鞘翅のような形状をしている。また、夜間活動中は右肩と胸部分がホタルのように明滅するという特徴をもつ。",
+            "球状になっている右腕からは、強力なプラズマエネルギーを発射することができる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。夜中に光を発しながら高速移動する様子は、さながらホタルが発光器を光らせて飛んでいるようでもある。",
+            "ゼクトルーパー部隊と交戦中のワーム（サナギ）から変態すると、クロックアップを発動。高速行動を駆使して部隊を殲滅し、その場を去る。",
+            "その後、警察官を手にかける現場を目撃した玉井ユキを狙い、彼女に擬態する。だが、すぐに多くの警察官がかけつけて拘束されてしまったため、本人のふりをしてわざと留置場にとどまった。",
+            "その後、「ワームは擬態した相手を始末しようとするはず」と考えた天道総司によって留置所から連れ出され、本物がいる遊園地に向かうと本性を現した。",
+            "この時を待っていた天道＝仮面ライダーカブトと戦い、クロックアップを駆使しながら遊園地の各所を移動。格闘戦で圧倒され、最後は左側頭部に「ライダーキック」の直撃を受け、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "219.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "130.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、プラズマの放射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_lampyrisworm_thumbnail"
+        },
+        "belcricketasworm": {
+          "kana": "べるくりけたすわーむ",
+          "name": "ベルクリケタスワーム",
+          "images": [
+            "kr_kabuto_characters_belcricketasworm_images1",
+            "kr_kabuto_characters_belcricketasworm_images2",
+            "kr_kabuto_characters_belcricketasworm_images3",
+            "kr_kabuto_characters_belcricketasworm_images4",
+            "kr_kabuto_characters_belcricketasworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第3話『俺が正義!!』（2006年2月12日放送）"
+            }
+          ],
+          "description": [
+            "スズムシに似た特徴をもつワームの成虫。",
+            "背中と両肩から昆虫のような羽が生えており、背中側の羽を広げて空を飛ぶことが可能。また首の左右には、昆虫の脚のような触手が1本ずつ伸びており、この触手を巨大化させて伸ばすことで、獲物を捕縛する。",
+            "さらに、攪音波を発生させて相手を催眠状態にし、自在にコントロールするという能力も備えており、この能力で加賀美新を操ろうとした。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "2年前に加賀美の弟、加賀美亮を手にかけ彼に擬態。その後は姿を消していた。",
+            "その後、ランピリスワームを打倒したあとの天道総司の前にワーム（サナギ体）の状態で現れ、仮面ライダーカブト マスクドフォームとの戦闘中に変態する。ただ、このときは分が悪いと判断したのかすぐに撤退した。",
+            "すると今度は、亮の姿を利用して加賀美に近づき、攪音波催眠も利用して彼を惑わし、仲間のワーム（サナギ体）を加賀美に擬態させようと企んだ。",
+            "だが寸前のところで天道が現れカブト マスクドフォームに変身。呼び出していたワーム（サナギ体）全員が倒されてしまった。",
+            "その後、フォームチェンジした仮面ライダーカブト ライダーフォームとともにクロックアップを発動。超高速空間で攻撃を仕掛けるも劣勢となり、最後は飛翔して空中から襲い掛かったところにカウンターの「ライダーキック」を受け、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "217.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "128.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、攪音波催眠、両肩の触手"
+            },
+            {
+              "label": "声",
+              "value": "佐々木和徳（ささき・かずのり）"
+            }
+          ],
+          "relatedCharacters": [
+            "lampyrisworm"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_belcricketasworm_thumbnail"
+        },
+        "epilacnaworm": {
+          "kana": "えぴらくなわーむ",
+          "name": "エピラクナワーム",
+          "images": [
+            "kr_kabuto_characters_epilacnaworm_images1",
+            "kr_kabuto_characters_epilacnaworm_images2",
+            "kr_kabuto_characters_epilacnaworm_images3",
+            "kr_kabuto_characters_epilacnaworm_images4",
+            "kr_kabuto_characters_epilacnaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第5話『捕獲指令!!』（2006年2月26日放送）"
+            }
+          ],
+          "description": [
+            "テントウムシに似た特徴をもつワームの成虫。",
+            "青い外殻にテントウムシのような黒斑が無数に広がっているという、見るからに毒々しい体色をしており、両腕には鉤爪を備える。",
+            "頭部はテントウムシの背中のような形状で、そこから無数に伸びる触手を伸ばして獲物に突き刺して体液をすする。また、腕力も強く、乗用車程度なら持ち上げて武器として投擲できる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "東省吾により仮面ライダーカブトをおびき寄せる囮として利用され、人を襲い続けた。",
+            "何人かの人間を襲ったのち、高架下で女性（第5話）を襲おうとしたところで東の目論見通り仮面ライダーカブト マスクドフォームが登場、戦闘となる。機敏さで優り、手数で優勢に立つも、有効打は与えられず、カブトが仮面ライダーカブト ライダーフォームにフォームチェンジすると、両者クロックアップを発動し、超高速空間での格闘戦となる。だが、ダメージを与えられず、必殺の「ライダーキック」を受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "212.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "115.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、体液を吸収する触手"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_epilacnaworm_thumbnail"
+        },
+        "plexworm": {
+          "kana": "ぷれくすわーむ",
+          "name": "プレクスワーム",
+          "images": [
+            "kr_kabuto_characters_plexworm_images1",
+            "kr_kabuto_characters_plexworm_images2",
+            "kr_kabuto_characters_plexworm_images3",
+            "kr_kabuto_characters_plexworm_images4",
+            "kr_kabuto_characters_plexworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第6話『オレ様の花』（2006年3月5日放送）"
+            }
+          ],
+          "description": [
+            "ノミに似た特徴をもつワームの成虫。",
+            "白い外殻の胸部には赤いドクロ模様が見えるほか、全身から猛毒を持つ無数の赤い針が伸びる。さらに右腕は巨大な針になっており、戦闘時は強力な武器となる。",
+            "また、脚力も驚異的なものがあり、特に垂直飛びでは50mもの距離を移動する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "知能が高く、対ワーム秘密組織「ZECT（ゼクト）」の中枢を攻撃しようと画策する。",
+            "多くのワーム（サナギ体）とともにZECT「東チーム」のリーダーである東省吾を襲って亡き者にし、彼に擬態。東の記憶からZECT中枢の情報を手に入れるが、そこに仮面ライダーカブト マスクドフォームが立ちふさがった。クロックアップを発動し、カブト マスクドフォームを攻撃するも、カブトも「キャストオフ」を発動し、仮面ライダーカブト ライダーフォームにフォームチェンジ。お互いがクロックアップを発動して高速戦闘を行う中、カブトクナイガン クナイモードの連続攻撃をうけたのち、「ライダーキック」を左側頭部に受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "218.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "132.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、全身の赤い針、飛距離50mの垂直飛び"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_plexworm_thumbnail"
+        },
+        "belbaworm_rota": {
+          "kana": "べるばーわーむ ろた",
+          "name": "ベルバーワーム ロタ",
+          "images": [
+            "kr_kabuto_characters_belbaworm_rota_images1",
+            "kr_kabuto_characters_belbaworm_rota_images2",
+            "kr_kabuto_characters_belbaworm_rota_images3",
+            "kr_kabuto_characters_belbaworm_rota_images4",
+            "kr_kabuto_characters_belbaworm_rota_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第7話『2号新登場』（2006年3月2日放送）"
+            }
+          ],
+          "description": [
+            "ウデムシに似た特徴をもつワームの成虫。顔や腕の形が違う同種のワームも存在する。",
+            "青と黄色の体色や外殻、口から緑色の毒液を吐き出す能力はベルバーワームと似ているが、こちらは頭部に3本の角が伸び、両腕に備えた鉤爪はより大型で凶悪な見た目となっている。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "「白い服を着た人間を襲う」という特徴があり、ベルバーワームとともに、ウエディングドレスや礼服など、白い服を着る機会が多い結婚式場で人間を襲っていた。しかし、ある女性を襲おうとしたところを警護中の矢車想に阻止され、対ワーム秘密組織「ZECT（ゼクト）」の精鋭部隊「シャドウ」と交戦。",
+            "ワーム（サナギ体）も呼び出して戦うが、矢車の変身した仮面ライダーザビー マスクドフォームのパワーとシャドウのチームワークに苦戦。さらにベルバーワームと戦っていた仮面ライダーカブト ライダーフォームも戦いに合流し、劣勢となる.",
+            "最後は、仮面ライダーザビー ライダーフォームの「ライダースティング」の一撃を胸に受け、そのまま消滅した."
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "224.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "138.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、両腕の鉤爪、口から吐く毒液"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_belbaworm_rota_thumbnail"
+        },
+        "belbaworm": {
+          "kana": "べるばーわーむ",
+          "name": "ベルバーワーム",
+          "images": [
+            "kr_kabuto_characters_belbaworm_images1",
+            "kr_kabuto_characters_belbaworm_images2",
+            "kr_kabuto_characters_belbaworm_images3",
+            "kr_kabuto_characters_belbaworm_images4",
+            "kr_kabuto_characters_belbaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第7話『2号新登場』（2006年3月2日放送）"
+            }
+          ],
+          "description": [
+            "ウデムシに似た特徴をもつワームの成虫。同種にベルバーワーム ロタがいる。",
+            "首から胸にかけてある巨大な襟巻のような部位が特徴的で、肩が膨らんでいることもあり、高貴な服装を身に着けているようにもみえる。",
+            "口から吐く緑色の毒液と、両腕の巨大な鉤爪を武器とする。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "「白い服を着た人間を襲う」という特徴があり、ベルバーワーム ロタとともに、ウエディングドレスや礼服など、白い服を着る機会が多い結婚式場で人間を襲っていた。その後、自身をおびき寄せる罠だとは知らず、白い服を着た天道総司に狙いを定め、彼が変身した仮面ライダーカブト ライダーフォームと交戦。「クロックアップ」による高速移動を行いながら場所を変えつつ戦うが、ベルバーワーム ロタやワーム（サナギ体）が仮面ライダーザビーや対ワーム秘密組織「ZECT（ゼクト）」の精鋭部隊「シャドウ」と交戦中の場に到達すると、乱戦に乗じて姿を消した。",
+            "その後も、新郎新婦や医者など、白い服を着た人間を襲っていたが、結婚式場で聖歌隊員に擬態して身を隠していたところを天道に看破され、再びカブト ライダーフォームと戦う。だが、まったく攻撃を当てることができず、最後は必殺の「ライダーキック」を左肩に受け、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "222.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "132.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、両腕の鉤爪、口から吐く毒液"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "belbaworm_rota",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_belbaworm_thumbnail"
+        },
+        "coleopteraworm_croseus": {
+          "kana": "これおぷてらわーむ くろせうす",
+          "name": "コレオプテラワーム クロセウス",
+          "images": [
+            "kr_kabuto_characters_coleopteraworm_croseus_images1",
+            "kr_kabuto_characters_coleopteraworm_croseus_images2",
+            "kr_kabuto_characters_coleopteraworm_croseus_images3",
+            "kr_kabuto_characters_coleopteraworm_croseus_images4",
+            "kr_kabuto_characters_coleopteraworm_croseus_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第7話『2号新登場』（2006年3月2日放送）"
+            }
+          ],
+          "description": [
+            "コガネムシに似た特徴をもつワームの成虫。同種にコレオプテラワーム アージェンタム、コレオプテラワーム アエネウスがいる。",
+            "金色の甲冑をまとったような姿で、口部からは鋭い管が伸びる。胸部には肋骨のような左右4本ずつ、合計8本の足が収納されている。この足を伸ばすことで、地を這うように高速移動が可能。",
+            "右手は鎌のように鋭利な鉤爪となっており、これを武器として振るう。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "まだワーム（サナギ体）だったころに対ワーム秘密組織「ZECT（ゼクト）」に補足され、湾岸エリアで精鋭部隊「シャドウ」と交戦。その戦闘中にコレオプテラワーム アージェンタム、コレオプテラワーム アエネウスとともに成虫へと変態した。",
+            "3体でクロックアップを発動し、ゼクトルーパー（シャドウ隊員）を蹂躙していたが、駆けつけた仮面ライダーカブト ライダーフォームには3対1でもまったく歯が立たず、コレオプテラワーム アエネウスが「ライダーキック」で倒されると、コレオプテラワーム アージェンタムとともに、胸部の足を展開して逃走した。",
+            "しかし、カブトエクステンダーを駆って追走してきたカブト ライダーフォームが「クロックアップ」を発動。マシンをカブトエクステンダー エクスモードに変形させて加速し一気に追いつかれてしまった。",
+            "仕切りなおすように身構えて襲い掛かるも、カブトエクステンダー エクスモードの先端から伸びる巨大な角状の突起「エクスアンカー」をカタパルトのように利用して放たれた「エクステンダーキック」を左側頭部に受け消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "219.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "132.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、右手の鉤爪、胸部から伸びる無数の足"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "coleopteraworm_argentum",
+            "coleopteraworm_aeneus"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_coleopteraworm_croseus_thumbnail"
+        },
+        "coleopteraworm_argentum": {
+          "kana": "これおぷてらわーむ あーじぇんたむ",
+          "name": "コレオプテラワーム アージェンタム",
+          "images": [
+            "kr_kabuto_characters_coleopteraworm_argentum_images1",
+            "kr_kabuto_characters_coleopteraworm_argentum_images2",
+            "kr_kabuto_characters_coleopteraworm_argentum_images3",
+            "kr_kabuto_characters_coleopteraworm_argentum_images4",
+            "kr_kabuto_characters_coleopteraworm_argentum_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第9話『蜂の乱心!!』（2006年3月26日放送）"
+            }
+          ],
+          "description": [
+            "コガネムシに似た特徴をもつワームの成虫。同種にコレオプテラワーム クロセウス、コレオプテラワーム アエネウスがいる。",
+            "銀色の甲冑をまとったような姿で、口部からは鋭い管が伸びる。胸部には肋骨のような左右4本ずつ、合計8本の足が収納されている。この足を伸ばすことで、地を這うように高速移動が可能。",
+            "右手には鎌のように鋭利な鉤爪が2本伸びており、武器として振るう。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "まだワーム（サナギ体）だったころに対ワーム秘密組織「ZECT（ゼクト）」に補足され、湾岸エリアで精鋭部隊「シャドウ」と交戦。その戦闘中にコレオプテラワーム クロセウス、コレオプテラワーム アエネウスとともに成虫へと変態した。",
+            "3体でクロックアップを発動し、ゼクトルーパー（シャドウ隊員）を蹂躙していたが、駆けつけた仮面ライダーカブト ライダーフォームには3対1でもまったく歯が立たず、コレオプテラワーム アエネウスが「ライダーキック」で倒される。それを見てコレオプテラワーム クロセウスとともに胸部の足を展開して逃走したが、追いつかれてコレオプテラワーム クロセウスも「エクステンダーキック」を受けて消滅。その隙に自身は逃走に成功した。",
+            "その後、再びZECTに補足され、シャドウと加賀美新が変身する仮面ライダーザビー マスクドフォームと交戦。「キャストオフ」をされて飛び散るマスクドアーマーの破片を「クロックアップ」を駆使して避け、仮面ライダーザビー ライダーフォームを吹き飛ばすも、仮面ライダーカブト ライダーフォームが乱入してきたことで形勢逆転。カブト ライダーフォームの「ライダーキック」を受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "219.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "130.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、右手の鉤爪、胸部から伸びる無数の足"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "coleopteraworm_croseus",
+            "coleopteraworm_aeneus"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_coleopteraworm_argentum_thumbnail"
+        },
+        "coleopteraworm_aeneus": {
+          "kana": "これおぷてらわーむ あえねうす",
+          "name": "コレオプテラワーム アエネウス",
+          "images": [
+            "kr_kabuto_characters_coleopteraworm_aeneus_images1",
+            "kr_kabuto_characters_coleopteraworm_aeneus_images2",
+            "kr_kabuto_characters_coleopteraworm_aeneus_images3",
+            "kr_kabuto_characters_coleopteraworm_aeneus_images4",
+            "kr_kabuto_characters_coleopteraworm_aeneus_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第9話『蜂の乱心!!』（2006年3月26日放送）"
+            }
+          ],
+          "description": [
+            "コガネムシに似た特徴をもつワームの成虫。同種にコレオプテラワーム クロセウス、コレオプテラワーム アージェンタムがいる。",
+            "銅色の甲冑をまとったような姿で、どころどころが青サビのような青緑色になっている。胸部には肋骨のような左右4本ずつ、合計8本の足が収納されており、この足を伸ばすことで、地を這うように高速移動が可能。",
+            "右手は鋭い鉤爪が3本伸びており、これを武器として振るう。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "まだワーム（サナギ体）だったころに対ワーム秘密組織「ZECT（ゼクト）」に補足され、湾岸エリアで精鋭部隊「シャドウ」と交戦。その戦闘中にコレオプテラワーム クロセウス、コレオプテラワーム アージェンタムとともに成虫へと変態した。",
+            "3体でクロックアップを発動し、ゼクトルーパー（シャドウ隊員）を蹂躙していたが、駆けつけた仮面ライダーカブト ライダーフォームには3対1でもまったく歯が立たず、攻撃を捌きながら放たれた「ライダーキック」を受け消滅する。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "217.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "128.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ, 擬態能力, 右手の鉤爪, 胸部から伸びる無数の足"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "coleopteraworm_croseus",
+            "coleopteraworm_argentum"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_coleopteraworm_aeneus_thumbnail"
+        },
+        "muscaworm": {
+          "kana": "みゅすかわーむ",
+          "name": "ミュスカワーム",
+          "images": [
+            "kr_kabuto_characters_muscaworm_images1",
+            "kr_kabuto_characters_muscaworm_images2",
+            "kr_kabuto_characters_muscaworm_images3",
+            "kr_kabuto_characters_muscaworm_images4",
+            "kr_kabuto_characters_muscaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第11話『合コン燃ゆ』（2006年4月9日放送）"
+            }
+          ],
+          "description": [
+            "ハエに似た特徴をもつワームの成虫。",
+            "全身から鋭い突起が生えた刺々しい外見をしており、背中の羽を使って空を自在に飛ぶ。口から吐き出す泡は、腐食性の毒があり、獲物をこの泡に触れさせて亡き者にしたこともある。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワーム（サナギ体）として天道総司＝仮面ライダーカブトを襲い、その戦闘中に変態する。だが、その場はすぐに飛び去り姿を消した。",
+            "その後、加賀美新が音頭を取り開催された合コンの女性メンバーに擬態。ほかの女性メンバーもワーム（サナギ体）に擬態させ、その場にいた加賀美や天道、風間大介を襲った。しかし、大介が変身した仮面ライダードレイク マスクドフォームと天堂が変身した仮面ライダーカブト ライダーフォームにワーム（サナギ体）をすべて倒され、再び逃走。女性を襲って擬態し天道たちの追撃を免れる。",
+            "さらにその後、大介の顧客である由香里を手にかけて彼女に擬態して大介に近づく。だが、メイクアップの仕上げに使う香水の匂いがしないことから天道に看破され、三度戦闘となる。",
+            "由香里の記憶と声を使って惑わすという狡猾な方法で仮面ライダードレイクを惑わし、一方的に攻め立てたが、助けに入ったカブト ライダーフォームの連続攻撃を受けた後、必殺の「ライダーキック」を受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "218.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "121.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、飛行能力、口から吐く腐食性の毒泡"
+            },
+            {
+              "label": "声",
+              "value": "英玲奈（えれな）"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_muscaworm_thumbnail"
+        },
+        "sectioworm": {
+          "kana": "せくてぃおわーむ",
+          "name": "セクティオワーム",
+          "images": [
+            "kr_kabuto_characters_sectioworm_images1",
+            "kr_kabuto_characters_sectioworm_images2",
+            "kr_kabuto_characters_sectioworm_images3",
+            "kr_kabuto_characters_sectioworm_images4",
+            "kr_kabuto_characters_sectioworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第13話『チーム解散』（2006年4月23日放送）"
+            }
+          ],
+          "description": [
+            "カマキリに似た特徴をもつワームの成虫。同種にセクティオワーム アクエレがいる。",
+            "まるで骸骨のような筋の入った身体は濃い緑色に染まっており、不気味に光る紫色の目が獲物の恐怖心をあおる。",
+            "毒性のある泡を口から吹きかけるほか、両腕と肩に備えた鋭いカマで獲物を切り裂いて仕留める。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "対ワーム秘密組織「ZECT（ゼクト）」の精鋭部隊だが、リーダーを失い一時解散していた「シャドウ」の隊員を襲撃して擬態。",
+            "同種であるセクティオワーム アクエレと共に、表向きの役職で生活を送るシャドウのメンバーたちを次々と襲っていった。",
+            "輸入雑貨店で働くシャドウ隊員をターゲットに選んで襲撃した際、その場に居合わせた天道総司の変身する仮面ライダーカブト マスクドフォームと交戦。",
+            "ワーム（サナギ体）と連携して攻撃しつつ、クロックアップを発動して連撃を加えるも、カブト マスクドフォームは「キャストオフ」を発動し、仮面ライダーカブト ライダーフォームへとフォームチェンジする。",
+            "互いにクロックアップを発動して超高速で戦うが、自慢のカマによる攻撃をことごとく受け流され、一方的に攻撃される展開に。最後はカブト ライダーフォームが放った「ライダーキック」を顔面に受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "218.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "130.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から毒性の泡を発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "sectioworm_aquere"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_sectioworm_thumbnail"
+        },
+        "sectioworm_aquere": {
+          "kana": "せくてぃおわーむ あくえれ",
+          "name": "セクティオワーム アクエレ",
+          "images": [
+            "kr_kabuto_characters_sectioworm_aquere_images1",
+            "kr_kabuto_characters_sectioworm_aquere_images2",
+            "kr_kabuto_characters_sectioworm_aquere_images3",
+            "kr_kabuto_characters_sectioworm_aquere_images4",
+            "kr_kabuto_characters_sectioworm_aquere_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第13話『チーム解散』（2006年4月23日放送）"
+            }
+          ],
+          "description": [
+            "カマキリに似た特徴をもつワームの成虫。頭部の形状が違う同種のワームも存在する。",
+            "刺々しい印象を受ける深緑色の身体と、鈍く輝く赤い眼を持つ。",
+            "両腕と肩に鋭いカマを備えており、これを使用して敵を攻撃する。また、毒性のある泡を口から吹きかけて獲物を仕留めることもある。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "対ワーム秘密組織「ZECT（ゼクト）」の精鋭部隊である「シャドウ」に所属していたメンバーを襲い、擬態。",
+            "同種であるセクティオワームと共に、一時解散状態となり表向きの役職で生活を送る、シャドウのメンバーたちを次々と襲撃する。",
+            "シャドウ隊長の経験者である加賀美新を襲うも、存在を事前に察知した矢車想の機転によってZECTガンの集中砲火を浴びて撤退。",
+            "その後は、次のターゲットに輸入雑貨店で働くシャドウ隊員を選び襲撃する。",
+            "店を訪れていた矢車とその部下である影山瞬を、ワーム（サナギ体）の群れと共に追い詰めるものの、影山は仮面ライダーザビー マスクドフォームに変身。",
+            "追って現れたシャドウ部隊との連携により、ともに行動していたワーム（サナギ体）が全滅させられ、さらにザビー マスクドフォームは「キャストオフ」を発動して、仮面ライダーザビー ライダーフォームへとフォームチェンジ。",
+            "ザビー ライダーフォームによるパンチのラッシュによって消耗させられたのち、必殺技の「ライダースティング」を正面から受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "229.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "136.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から毒性の泡を発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "sectioworm"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_sectioworm_aquere_thumbnail"
+        },
+        "formicaalbusworm": {
+          "kana": "ふぉるみかあるびゅすわーむ",
+          "name": "フォルミカアルビュスワーム",
+          "images": [
+            "kr_kabuto_characters_formicaalbusworm_images1",
+            "kr_kabuto_characters_formicaalbusworm_images2",
+            "kr_kabuto_characters_formicaalbusworm_images3",
+            "kr_kabuto_characters_formicaalbusworm_images4",
+            "kr_kabuto_characters_formicaalbusworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第15話『怪人名医!?』（2006年5月7日放送）"
+            }
+          ],
+          "description": [
+            "シロアリに似た特徴を持つワームの成虫。同種にフォルミカアルビュスワーム マキシラ、フォルミカアルビュスワーム オキュルスがいる。",
+            "真っ白な体に頭蓋骨が浮き出ているかのような奇妙な顔を持ち、同種同士での集団行動を好む。",
+            "手に備わる鉤爪で敵を引き裂き、どんなものでも腐食させる蟻酸ガスを口から放射する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "天才外科医の若林龍宏を襲った際に「オペを待つ患者のために1ヶ月だけ待ってほしい」と懇願され、その願いを聞き入れて若林に擬態。",
+            "ふたりでかわるがわるオペを行っていたが、それでも手が足りなかったために仲間である同種の2体を呼ぶ。",
+            "本人も含めた4人の若林が入れ替わりつつオペを行い、自由に行動できるタイミングを見計らって人を襲っていた。",
+            "複数の若林が存在することを突き止めた対ワーム秘密組織「ZECT（ゼクト）」に、通行人を襲っているところを見つかり、戦闘へと突入。",
+            "ZECTの隊員である影山瞬が変身する仮面ライダーザビー、ZECTに一時的に協力する風間大介が変身する仮面ライダードレイク、さらにZECTに潜入中の天道総司が変身する仮面ライダーカブトとの連戦ののち、撤退した。",
+            "その後、約束の執行により同種の仲間たちとともに若林を襲うが、それを阻止すべく天道が現れ仮面ライダーカブト マスクドフォームに変身。後から駆け付けた大介と影山もそれぞれ仮面ライダードレイク マスクドフォームと仮面ライダーザビー マスクドフォームに変身し、戦闘となる。",
+            "複数のワームとライダーが入り乱れる混戦のなか、カブト マスクドフォームとドレイク マスクドフォームは「キャストオフ」を発動し、それぞれライダーフォームへとフォームチェンジ。クロックアップを発動した超高速戦闘の中で、仮面ライダードレイク ライダーフォームの放った必殺技「ライダーシューティング」を正面から喰らい、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "222.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "126.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から蟻酸を発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "formicaalbusworm_maxilla",
+            "formicaalbusworm_oculus"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_formicaalbusworm_thumbnail"
+        },
+        "formicaalbusworm_maxilla": {
+          "kana": "ふぉるみかあるびゅすわーむ まきしら",
+          "name": "フォルミカアルビュスワーム マキシラ",
+          "images": [
+            "kr_kabuto_characters_formicaalbusworm_maxilla_images1",
+            "kr_kabuto_characters_formicaalbusworm_maxilla_images2",
+            "kr_kabuto_characters_formicaalbusworm_maxilla_images3",
+            "kr_kabuto_characters_formicaalbusworm_maxilla_images4",
+            "kr_kabuto_characters_formicaalbusworm_maxilla_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第16話『まさかの嵐』（2006年5月14日放送）"
+            }
+          ],
+          "description": [
+            "シロアリに似た特徴を持つワームの成虫。同じ特徴を持つが外見の違うワームが複数体存在する。",
+            "身体のいたるところに黒い鉤爪を備えており、これを利用して敵を切り裂く。",
+            "また、口から放出する蟻酸ガスによって獲物を腐敗させて捕食する。",
+            "さらに、人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "同種のフォルミカアルビュスワームの応援要請に答えるべく、フォルミカアルビュスワーム オキュルスと共に、天才外科医の若林龍宏に擬態。若林の「オペを待つたくさんの患者を治療するため、1ヶ月だけ待ってほしい」という願いを叶えるため、本物を含めた4人の若林によってかわるがわるオペを行っていた。",
+            "タイムリミットが来たため、約束の執行により同種の仲間たちとともに若林を襲うが、それを阻止すべく天道が現れ仮面ライダーカブト マスクドフォームに変身。後から駆け付けた風間大介と影山瞬もそれぞれ仮面ライダードレイク マスクドフォームと仮面ライダーザビー マスクドフォームに変身し、戦闘となる。",
+            "フォルミカアルビュスワーム マキシラは主にザビー マスクドフォームと交戦。鉤爪による的確な攻撃で、変身解除させるまで追い込んだ。",
+            "しかし、そこに対ワーム秘密組織「ZECT（ゼクト）」の幹部である三島正人が突如現れ、ザビーに変身する資格を持たないにも関わらず、無理やり変身を敢行。ケタ違いの強さを見せる三島の変身した仮面ライダーザビー ライダーフォームの正拳突き連打を胴体に叩き込まれ、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "220.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "122.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から蟻酸を発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "formicaalbusworm",
+            "formicaalbusworm_oculus"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_formicaalbusworm_maxilla_thumbnail"
+        },
+        "formicaalbusworm_oculus": {
+          "kana": "ふぉるみかあるびゅすわーむ おきゅるす",
+          "name": "フォルミカアルビュスワーム オキュルス",
+          "images": [
+            "kr_kabuto_characters_formicaalbusworm_oculus_images1",
+            "kr_kabuto_characters_formicaalbusworm_oculus_images2",
+            "kr_kabuto_characters_formicaalbusworm_oculus_images3",
+            "kr_kabuto_characters_formicaalbusworm_oculus_images4",
+            "kr_kabuto_characters_formicaalbusworm_oculus_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第16話『まさかの嵐』（2006年5月14日放送）"
+            }
+          ],
+          "description": [
+            "シロアリに似た特徴を持つワームの成虫。同じ特徴を持つが外見の違うワームが複数体存在する。",
+            "白い身体と、目に当たる部分からトゲが飛び出しているのが特徴。",
+            "口から腐食効果を持つ蟻酸ガスを放出する能力を持つ。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "同種のフォルミカアルビュスワームが、天才外科医の若林龍宏の「オペを待つたくさんの患者を治療するため、1ヶ月だけ待ってほしい」という願いを聞き入れたため、その応援としてフォルミカアルビュスワーム マキシラと共に若林に擬態。本物を含めた4人の若林のひとりとして、入れ替わりつつオペを行っていた。",
+            "1ヶ月のタイムリミットが来たため、約束の執行により同種の仲間たちとともに若林を襲うが、それを阻止すべく天道総司が現れ仮面ライダーカブト マスクドフォームに変身。後から駆け付けた風間大介と影山瞬もそれぞれ仮面ライダードレイク マスクドフォームと仮面ライダーザビー マスクドフォームに変身し、戦闘となる。",
+            "交戦相手が入れ替わり立ち代わる乱戦状態となるも、カブト マスクドフォームとドレイク マスクドフォームが「キャストオフ」を発動。それぞれライダーフォームへとフォームチェンジすると、「クロックアップ」による超高速空間での戦闘が展開され、混戦の中で発動した仮面ライダードレイク ライダーフォームの必殺技「ライダーシューティング」により放たれた光弾を受け、大ダメージを負い逃走する。",
+            "だが、仮面ライダーカブト ライダーフォームに追いつかれると、その場にいた加賀美新がZECTガンより放った銃弾により撃破されたと偽装される形で「クロックアップ」発動からの「ライダーキック」の直撃を受け、消滅してしまう。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "214.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "115.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から蟻酸を発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "formicaalbusworm",
+            "formicaalbusworm_maxilla"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_formicaalbusworm_oculus_thumbnail"
+        },
+        "bielaworm": {
+          "kana": "びえらわーむ",
+          "name": "ビエラワーム",
+          "images": [
+            "kr_kabuto_characters_bielaworm_images1",
+            "kr_kabuto_characters_bielaworm_images2",
+            "kr_kabuto_characters_bielaworm_images3",
+            "kr_kabuto_characters_bielaworm_images4",
+            "kr_kabuto_characters_bielaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第17話『蘇る記憶!!』（2006年5月14日放送）"
+            }
+          ],
+          "description": [
+            "バイオリンムシに似た特徴を持つワームの成虫。",
+            "赤黒い体から触手を何本も垂らした不気味な外見をしている。また、特徴的なバイオリンをかき鳴らすかのような鳴き声は、獲物への恐怖心を煽る。",
+            "右手の触手は伸縮自在であり、戦闘中は主にこれを使用して敵を拘束、攻撃する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "普段はバイオリンを持つ男性に擬態しており、人の集まる場所に現れては無差別に襲い掛かる習性を持つ。",
+            "かつて風間大介と行動を共にするゴンとその母親の高山順子が乗るバスを襲った。",
+            "ふたりを逃がしてしまい、その後も執拗に命を狙っていたが、最後は仮面ライダードレイク ライダーフォームの必殺技「ライダーシューティング」の光弾を受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "217.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "132kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、伸縮自在な触手による攻撃"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_bielaworm_thumbnail"
+        },
+        "sepulturaworm": {
+          "kana": "せぱるちゅらわーむ",
+          "name": "セパルチュラワーム",
+          "images": [
+            "kr_kabuto_characters_sepulturaworm_images1",
+            "kr_kabuto_characters_sepulturaworm_images2",
+            "kr_kabuto_characters_sepulturaworm_images3",
+            "kr_kabuto_characters_sepulturaworm_images4",
+            "kr_kabuto_characters_sepulturaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第19話『さそり富豪』（2006年6月4日放送）"
+            }
+          ],
+          "description": [
+            "シデムシに似た特徴を持つワームの成虫。",
+            "黄色の体をベースに、左半身に漆黒の甲冑を纏ったかのような特徴的な外見をしている。",
+            "鉤爪状の右腕を武器に獲物に襲い掛かり、鋼鉄をもかみ砕くほどの鋭さを持つ牙によって捕食する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "刑務所に行くような犯罪者をターゲットにし、犯行の現場に出没して襲い掛かるという特殊な習性を持つ。",
+            "この性質を利用して、岬祐月、田所修一、加賀美新の3人は「怪盗シャドウ」として悪名を上げ、囮になっておびき出すという作戦を慣行した。",
+            "幾度となく仮面ライダーたちと刃を交えた果てに、仮面ライダーサソード ライダーフォームの必殺技「ライダースラッシュ」による斬撃により斬り裂かれ、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "219.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "140kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、大きなかぎ爪による攻撃"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_sepulturaworm_thumbnail"
+        },
+        "brachypelmaworm_viridis": {
+          "kana": "ぶらきぺるまわーむ びりでぃす",
+          "name": "ブラキペルマワーム ビリディス",
+          "images": [
+            "kr_kabuto_characters_brachypelmaworm_viridis_images1",
+            "kr_kabuto_characters_brachypelmaworm_viridis_images2",
+            "kr_kabuto_characters_brachypelmaworm_viridis_images3",
+            "kr_kabuto_characters_brachypelmaworm_viridis_images4",
+            "kr_kabuto_characters_brachypelmaworm_viridis_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第21話『VSクワガタ』（2006年6月25日放送）"
+            }
+          ],
+          "description": [
+            "クモに似た特徴を持つワームの成虫。同種にブラキペルマワーム オーランタムがいる。",
+            "黒色の身体に緑色の斑点がちりばめられており、節々に白い毛が生えているのが特徴。",
+            "口から糸を吐き出して獲物を絡めとったり、アクロバティックな動きに利用するほか、身体から伸縮自在のトゲを出して攻撃する。",
+            "また、ワーム（サナギ体）に指示を出して盾にするなど、狡猾な一面も見せる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "普段は工場の作業員に擬態。ワームの巣と化した工場内に潜伏し、隠されているワームの卵を守ることを使命としていた。",
+            "主に、タランテスワーム パープラの指示を受け、同種のブラキペルマワーム オーランタムと共に行動。",
+            "加賀美新が、調査のために工場内を探索していたところに狙いをつけ、幾度も襲い掛かり、のちに加賀美の姿に擬態した。",
+            "対ワーム秘密組織「ZECT（ゼクト）」による掃討作戦が開始されると、工場に侵入してきた加賀美を発見して襲いかかり、致命傷を与える。だが、加賀美は何者かによりライダーベルトを装着されて復活し、仮面ライダーガタック マスクドフォームに変身。タランテスワーム パープラと共に攻撃を仕掛けるも、ガタックバルカンによる遠距離砲撃を受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "214.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "122kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から粘着性の糸を放射、伸縮自在の触手"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "brachypelmaworm_aurantum",
+            "tarantesworm_purpura"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_brachypelmaworm_viridis_thumbnail"
+        },
+        "brachypelmaworm_aurantum": {
+          "kana": "ぶらきぺるまわーむ おーらんたむ",
+          "name": "ブラキペルマワーム オーランタム",
+          "images": [
+            "kr_kabuto_characters_brachypelmaworm_aurantum_images1",
+            "kr_kabuto_characters_brachypelmaworm_aurantum_images2",
+            "kr_kabuto_characters_brachypelmaworm_aurantum_images3",
+            "kr_kabuto_characters_brachypelmaworm_aurantum_images4",
+            "kr_kabuto_characters_brachypelmaworm_aurantum_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第21話『VSクワガタ』（2006年6月25日放送）"
+            }
+          ],
+          "description": [
+            "クモに似た特徴を持つワームの成虫。同種にブラキペルマワーム ビリディスがいる。",
+            "茶色の体をベースに一部縞模様のような柄が入っているのが特徴で、節々に黒い毛のようなものが生えている。",
+            "口からクモの糸を吐き出して敵を絡めとったり、伸縮自在の鋭いトゲを身体から伸ばして攻撃する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "工場内に隠された孵化前のワームの卵を守ることを使命としており、タランテスワーム パープラの指示を受け、同種のブラキペルマワーム オーランタムと共に行動する。",
+            "調査のために工場内に足を踏み入れた加賀美新を襲うも、取り逃がしてしまう。",
+            "その後、マコト（擬態）を人間だと信じて助けに戻ってきた加賀美を攻撃するも、そこに現れた仮面ライダーカブト ライダーフォームと戦闘。最後は必殺技の「ライダーキック」の一撃を喰らい消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "222.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "122kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、口から粘着性の糸を放射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "brachypelmaworm_viridis",
+            "tarantesworm_purpura"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_brachypelmaworm_aurantum_thumbnail"
+        },
+        "tarantesworm_purpura": {
+          "kana": "たらんてすわーむ ぱーぷら",
+          "name": "タランテスワーム パープラ",
+          "images": [
+            "kr_kabuto_characters_tarantesworm_purpura_images1",
+            "kr_kabuto_characters_tarantesworm_purpura_images2",
+            "kr_kabuto_characters_tarantesworm_purpura_images3",
+            "kr_kabuto_characters_tarantesworm_purpura_images4",
+            "kr_kabuto_characters_tarantesworm_purpura_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第22話『誕生特別編』（2006年7月2日放送）"
+            }
+          ],
+          "description": [
+            "タランチュラに似た特徴を持つワームの成虫。",
+            "白色のベースに紫のラインが入った体や赤い目など、毒々しい印象の外見をしている。",
+            "身体から生えている触手を伸ばし、敵を突き刺して攻撃する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "マコトという少年に擬態して、ワームの巣と化した工場内に潜伏。",
+            "ブラキペルマワーム ビリディス、ブラキペルマワーム オーランタムの2体とともに、工場内にあるワームの卵を守ることを使命としていた。",
+            "ワームと知らずにマコト（擬態）を守ろうとする加賀美新に接触。対ワーム秘密組織「ZECT（ゼクト）」による工場の殲滅作戦を引きのばそうと画策する。",
+            "目的を果たし用済みになると触手を伸ばして加賀美を貫いて致命傷を与えるも、加賀美はライダーベルトを付けて復活。仮面ライダーガタック マスクドフォームと変身を果たす。",
+            "「キャストオフ」によりライダーフォームへとフォームチェンジしたガタックとの「クロックアップ」を駆使した高速戦闘の果てに、仮面ライダーガタック ライダーフォームによって放たれた必殺技「ライダーキック」の直撃を受ける。",
+            "それと同時に工場に仕掛けられた爆弾が爆発。",
+            "マコトの記憶がそうさせたのか、ワームの卵を一掃しようとする紅蓮の炎からガタックを庇うように消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "222.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "127kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、伸縮自在の触手"
+            },
+            {
+              "label": "声",
+              "value": "桑代貴明"
+            }
+          ],
+          "relatedCharacters": [
+            "brachypelmaworm_viridis",
+            "brachypelmaworm_aurantum"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_tarantesworm_purpura_thumbnail"
+        },
+        "geophilidworm": {
+          "kana": "じおふぃりどわーむ",
+          "name": "ジオフィリドワーム",
+          "images": [
+            "kr_kabuto_characters_geophilidworm_images1",
+            "kr_kabuto_characters_geophilidworm_images2",
+            "kr_kabuto_characters_geophilidworm_images3",
+            "kr_kabuto_characters_geophilidworm_images4",
+            "kr_kabuto_characters_geophilidworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第23話『謎+謎＝X』（2006年7月9日放送）"
+            }
+          ],
+          "description": [
+            "ムカデに似た特徴を持つワームの成虫。",
+            "何匹ものムカデが体中に張り付いているかのような赤い体は、見る者に嫌悪感を抱かせる。",
+            "まったく同じ姿の同種個体が複数存在する珍しいワームで、全6体が出現した。",
+            "侵されたものを砂塵にしてしまう猛毒が含まれる舌によって獲物を狙うほか、剣のような武器を用いて攻撃を仕掛ける個体も存在する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "渋谷隕石の欠片である緑の石を所有する人間をターゲットにする習性を持ち、日下部ひよりや一般人たちを襲った。",
+            "しかし戦闘力は決して高くなく、仮面ライダーカブトと仮面ライダーガタックによってすべての個体が撃破された。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "219.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "130kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、毒性の舌による攻撃"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_geophilidworm_thumbnail"
+        },
+        "genomiasworm": {
+          "kana": "じぇのみあすわーむ",
+          "name": "ジェノミアスワーム",
+          "images": [
+            "kr_kabuto_characters_genomiasworm_images1",
+            "kr_kabuto_characters_genomiasworm_images2",
+            "kr_kabuto_characters_genomiasworm_images3",
+            "kr_kabuto_characters_genomiasworm_images4",
+            "kr_kabuto_characters_genomiasworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第25話『驕る捜査線』（2006年6月25日放送）"
+            }
+          ],
+          "description": [
+            "アリジゴクに似た特徴を持つワームの成虫。",
+            "灰色の鎧をまとっているかのような灰色のボディを持つ。",
+            "地中を掘り進んで自在に移動できる能力を備えており、獲物を地面に引きずり込む。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワームのリーダー格であるウカワームの指令に従い、多数のワーム（サナギ体）を引き連れて天道総司の変身した仮面ライダーカブト ライダーフォームに挑むも、劣勢となり逃走。",
+            "その後、加賀美新の変身する仮面ライダーガタック ライダーフォームの駆るガタックエクステンダー エクスモードに押しつぶされそうになったウカワームをアシストするために出現する。地中を潜りながら移動するも、ガタックと連携するカブト ライダーフォームが操るカブトエクステンダー エクスモードのエクスアンカーによって地面から叩き出され、空中に身を投げ出されたところにガタック ライダーフォームの必殺技「ライダーキック」を喰らい、消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "223.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "141kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、地中を自在に移動"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_genomiasworm_thumbnail"
+        },
+        "acarinaworm": {
+          "kana": "あきゃりなわーむ",
+          "name": "アキャリナワーム",
+          "images": [
+            "kr_kabuto_characters_acarinaworm_images1",
+            "kr_kabuto_characters_acarinaworm_images2",
+            "kr_kabuto_characters_acarinaworm_images3",
+            "kr_kabuto_characters_acarinaworm_images4",
+            "kr_kabuto_characters_acarinaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第27話『俺!? 殺人犯』（2006年8月6日放送）"
+            }
+          ],
+          "description": [
+            "ダニに似た特徴を持つワームの成虫。同種にアキャリナワーム アンバーがいる。",
+            "深紅の体と大きく張り出した背中が特徴的なワームで、目を惹く巨大な鉤爪状の右腕で敵を挟んで砕く。",
+            "また、全身に生えたトゲはミサイルのように射出することができる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "地下道で女性を襲うも、加賀美新が現れ、彼が変身した仮面ライダーガタック ライダーフォームと戦闘になる。仲間のワーム（サナギ体）と連携して攻撃するが、そこに天道総司＝仮面ライダーカブト ライダーフォームも出現。「クロックアップ」の発動による超高速状態での戦いになるも、カブトとガタックの連携でワーム（サナギ体）は全滅し、自身もふたりの仮面ライダーによるダブルの「ライダーキック」を受けて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "222.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "137kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、トゲを発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "acarinaworm_amber"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_acarinaworm_thumbnail"
+        },
+        "acarinaworm_amber": {
+          "kana": "あきゃりなわーむ あんばー",
+          "name": "アキャリナワーム アンバー",
+          "images": [
+            "kr_kabuto_characters_acarinaworm_amber_images1",
+            "kr_kabuto_characters_acarinaworm_amber_images2",
+            "kr_kabuto_characters_acarinaworm_amber_images3",
+            "kr_kabuto_characters_acarinaworm_amber_images4",
+            "kr_kabuto_characters_acarinaworm_amber_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第27話『俺!? 殺人犯』（2006年8月6日放送）"
+            }
+          ],
+          "description": [
+            "ダニに似た特徴を持つワームの成虫。同種にアキャリナワームがいる。",
+            "黄色い身体を持ち、鉤爪状の大きな右腕で敵を攻撃するほか、全身のトゲを射出しての遠距離攻撃も可能。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワーム（サナギ体）の状態で仮面ライダードレイクの変身者である風間大介に擬態。大介の仕事のライバルである相良和彦を亡きものにし、大介を指名手配犯に仕立て上げる。そして、本物の大介を装って天道総司の家に侵入し、天道の妹、天道樹花を襲おうとするも天道が帰宅し失敗。この時に成虫へと変態した。",
+            "その後、本物の大介を亡き者にするために数々の策を弄するもうまくいかず、やがて本物の大介とドレイクグリップの争奪戦を展開。その場にいた大介の相棒であるゴンに見破られてしまい、本物の大介は仮面ライダードレイク マスクドフォームに変身。「キャストオフ」を発動しライダーフォームへとフォームチェンジする。",
+            "最後は仮面ライダードレイク ライダーフォームの必殺技「ライダーシューティング」による光弾を撃ち込まれて吹き飛ばされると、間髪入れずに「クロックアップ」を発動されて超高速移動で距離を詰められ、打撃の連打＆崖下への叩きつけるような投げを喰らい消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "222.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "134kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、ライダーへの変身能力のコピー、トゲを発射"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "acarinaworm"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_acarinaworm_amber_thumbnail"
+        },
+        "culexworm": {
+          "kana": "きゅれっくすわーむ",
+          "name": "キュレックスワーム",
+          "images": [
+            "kr_kabuto_characters_culexworm_images1",
+            "kr_kabuto_characters_culexworm_images2",
+            "kr_kabuto_characters_culexworm_images3",
+            "kr_kabuto_characters_culexworm_images4",
+            "kr_kabuto_characters_culexworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第29話『闇キッチン』（2006年8月20日放送）"
+            }
+          ],
+          "description": [
+            "蚊に似た特徴を持つワームの成虫。",
+            "黒いボディにの表面に赤い血管が貼り巡っているかのような姿をしている。",
+            "左腕の針を相手の体に刺してウイルスを注入し、思うがままに操る能力を持つ。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "選ばれし者のみが扱える伝説の黒包丁を使いこなす料理人、生簀一郎に擬態していた。人間を襲うことにはあまり興味がなく、自らの料理の腕で人間の心を支配しようと画策する。",
+            "対ワーム秘密組織「ZECT（ゼクト）」主催の闇キッチンルールによる料理勝負で天道総司に敗北すると、憤慨しながらワームの姿に変化し天道を襲った。",
+            "だが、料理だけでなく戦いにおいても天道に勝つことはできず、天道が変身した仮面ライダーカブト ライダーフォームの必殺技「ライダーキック」を喰らい消滅した。",
+            "※初登場作品（TV本編に先駆けて登場）：『劇場版 仮面ライダーカブト GOD SPEED LOVE』(2006年8月5日公開)"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "212.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "115kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、対象を自在に操るウィルス、卓越した料理スキル"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_culexworm_thumbnail"
+        },
+        "foriatassworm": {
+          "kana": "ふぉりあたすわーむ",
+          "name": "フォリアタスワーム",
+          "images": [
+            "kr_kabuto_characters_foriatassworm_images1",
+            "kr_kabuto_characters_foriatassworm_images2",
+            "kr_kabuto_characters_foriatassworm_images3",
+            "kr_kabuto_characters_foriatassworm_images4",
+            "kr_kabuto_characters_foriatassworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第31話『衝撃の事実』（2006年9月3日放送）"
+            }
+          ],
+          "description": [
+            "コノハムシに似た特徴を持つワームの成虫。",
+            "こげ茶色の体や背中から頭頂部に突き出した木の葉のような装飾、4つの大きな目玉が特徴。",
+            "つむじ風を巻き起こす能力を持ち、移動やがれきを飛ばした攻撃に利用するほか、大量のワーム（サナギ体）を引き連れた集団戦法を得意とする。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワーム（サナギ体）の群れの1体だったが、神代剣（擬態）が変身した仮面ライダーサソードとの戦いのなかで脱皮し、成虫へと変態した。",
+            "ウカワームの指示によって日下部ひよりを襲撃するが、天道総司が変身した仮面ライダーカブトや、加賀美新が変身した仮面ライダーガタックの機転によって逃してしまう。",
+            "その後、「エリアX」に向かったひよりの後を追う天道と加賀美の前に立ちはだかるも、仮面ライダーカブト ライダーフォームと仮面ライダーガタック ライダーフォームによって繰り出されたふたり同時の「ライダーキック」を喰らい消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "227.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "137kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、つむじ風を巻き起こす"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "ukaworm",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_foriatassworm_thumbnail"
+        },
+        "camarasworm": {
+          "kana": "きゃまらすわーむ",
+          "name": "キャマラスワーム",
+          "images": [
+            "kr_kabuto_characters_camarasworm_images1",
+            "kr_kabuto_characters_camarasworm_images2",
+            "kr_kabuto_characters_camarasworm_images3",
+            "kr_kabuto_characters_camarasworm_images4",
+            "kr_kabuto_characters_camarasworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第33話『萌える副官』（2006年9月17日放送）"
+            }
+          ],
+          "description": [
+            "エビに似た特徴を持つワームの成虫。",
+            "鮮やかな水色の身体を持ち、甲高い奇妙な鳴き声が異質さを放つ。",
+            "目の上から生えた2本の長い触角は敵を察知するセンサーとなっており、深海での自在な活動を可能にしている。",
+            "巨大な鉤状の右腕が主な武器であり、先端にエネルギーを集中させて敵に叩きつけ、破壊する。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "普段はウカワームの側近として、黒装束の女（擬態・第33話）に擬態していた。",
+            "対ワーム秘密組織「ZECT（ゼクト）」が新たに開発したハイパーゼクターの争奪戦に参加した。",
+            "さまざまな陣営を交えた戦いの場では加賀美新＝仮面ライダーガタックを圧倒し、エネルギー波による強力な一撃を加えて撃破に成功する。だが、ハイパーゼクターを手に入れた仮面ライダーカブトが仮面ライダーカブト ハイパーフォームにフォームチェンジ。「ハイパークロックアップ」の発動により時間を遡り、ガタックの撃破を無かったことにされてしまう。続けざまにカブト ハイパーフォームの必殺技「ハイパーライダーキック」を喰らい消滅するという最期を迎えた。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "221.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "127kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、海中での戦闘"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "ukaworm",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_camarasworm_thumbnail"
+        },
+        "cokiliaworm": {
+          "kana": "こきりあわーむ",
+          "name": "コキリアワーム",
+          "images": [
+            "kr_kabuto_characters_cokiliaworm_images1",
+            "kr_kabuto_characters_cokiliaworm_images2",
+            "kr_kabuto_characters_cokiliaworm_images3",
+            "kr_kabuto_characters_cokiliaworm_images4",
+            "kr_kabuto_characters_cokiliaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第35話『地獄の兄弟』（2006年10月1日放送）"
+            }
+          ],
+          "description": [
+            "カタツムリに似た特徴を持つワームの成虫。",
+            "触角のように飛び出した目や口が不気味さを際立たせている。",
+            "両腕から生えた触手を伸ばし相手を叩き伏せる戦法を得意とするほか、触手を束ねて敵を刺突する攻撃もできる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "普段はウカワームの側近として、黒装束の女（擬態・第35話）に擬態していた。",
+            "ワームと敵対する種族ネイティブの立川大吾を消すという指令を受け行動。暴走装置「赤い靴」の発動でカブトに異変が生じた隙を突き目的を達成した。",
+            "その後ウカワームとともにカブト、ガタックと再戦。カブトが仮面ライダーカブト ハイパーフォームへフォームチェンジし、「ハイパーライダーキック」を叩き込まれて消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "215.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "119kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、腕の触手による攻撃"
+            },
+            {
+              "label": "声",
+              "value": "生駒エリコ"
+            }
+          ],
+          "relatedCharacters": [
+            "ukaworm",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_cokiliaworm_thumbnail"
+        },
+        "leptophisworm": {
+          "kana": "れぷとーふぃすわーむ",
+          "name": "レプトーフィスワーム",
+          "images": [
+            "kr_kabuto_characters_leptophisworm_images1",
+            "kr_kabuto_characters_leptophisworm_images2",
+            "kr_kabuto_characters_leptophisworm_images3",
+            "kr_kabuto_characters_leptophisworm_images4",
+            "kr_kabuto_characters_leptophisworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第37話『学校の怪談』（2006年10月15日放送）"
+            }
+          ],
+          "description": [
+            "キリギリスに似た特徴を持つワームの成虫。",
+            "深い蒼色のボディと鬼のような角、憤怒の形相が見る者を怯えさせる。",
+            "驚異的なジャンプ力を活かした素早い移動を得意とし、腕先からは特殊な音波を出して敵を攻撃できる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "天道樹花が通う聖華学園の合唱部員全員がワームに擬態しており、自身はそのリーダー。祈ると願いを叶えるという噂を利用して学園に訪れる生徒たちを襲っていた。",
+            "合唱部を調査に来た仮面ライダーカブト、ガタック、さらに迷いを抱く仮面ライダーパンチホッパーと戦闘を繰り広げるも逃走。",
+            "天道樹花らをターゲットにバスを襲撃し、ガタック・サソード（擬態）らと交戦するが、最終的に仮面ライダーカブト ハイパーフォームの必殺技「マキシマムハイパータイフーン」によって叩き切られ消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "217.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "121kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、特殊な音波を発射、卓越したジャンプ力"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_leptophisworm_thumbnail"
+        },
+        "subustworm": {
+          "kana": "さぶすとわーむ",
+          "name": "サブストワーム",
+          "images": [
+            "kr_kabuto_characters_subustworm_images1",
+            "kr_kabuto_characters_subustworm_images2",
+            "kr_kabuto_characters_subustworm_images3",
+            "kr_kabuto_characters_subustworm_images4",
+            "kr_kabuto_characters_subustworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第39話『強敵黒カブ』（2006年10月29日放送）"
+            }
+          ],
+          "description": [
+            "ザリガニに似た特徴を持つワームの成虫。",
+            "全身が黄金に輝く頑丈な鎧で覆われ、非常に高い防御力を誇り、最大6000mの深海での活動も可能。",
+            "右腕の先に光子を集めて光の矢を放つ高い攻撃能力を持つ。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "普段はウカワームの側近として黒装束の女に擬態していたが、記憶を失ったウカワームを掟に従って狙う。",
+            "ウカワームを守ろうとする仮面ライダードレイク、カブトと交戦。カブト ハイパーフォームにフォームチェンジされ、パーフェクトゼクターによる「ハイパースラッシュ」でワーム（サナギ体）ともども撫で斬りにされ消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "223.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "130kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、特殊な音波を発射、卓越したジャンプ力"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "ukaworm",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_subustworm_thumbnail"
+        },
+        "camponotusworm_maxilla": {
+          "kana": "かんぽのたすわーむ まきしら",
+          "name": "カンポノタスワーム マキシラ",
+          "images": [
+            "kr_kabuto_characters_camponotusworm_maxilla_images1",
+            "kr_kabuto_characters_camponotusworm_maxilla_images2",
+            "kr_kabuto_characters_camponotusworm_maxilla_images3",
+            "kr_kabuto_characters_camponotusworm_maxilla_images4",
+            "kr_kabuto_characters_camponotusworm_maxilla_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "『仮面ライダーカブト超バトルDVD 誕生！ガタックハイパーフォーム!!』"
+            }
+          ],
+          "description": [
+            "クロオオアリに似た特徴を持つワームの成虫。同種のカンポノタスワーム オキュルスと常に行動をともにする。",
+            "頭部や両肩、両足の先端などに鋭いトゲ状の突起を生やし、前腕からも鉤爪状の突起が2本ずつ伸びている。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "加賀美新を襲撃し追い詰めるが、仮面ライダーカブトとガタックが同時にハイパーフォームへとフォームチェンジ。カブト ハイパーフォームの「ハイパーライダーキック」を受け消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "不明"
+            },
+            {
+              "label": "体重",
+              "value": "不明"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "camponotusworm_oculus",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_camponotusworm_maxilla_thumbnail"
+        },
+        "camponotusworm_oculus": {
+          "kana": "かんぽのたすわーむ おきゅるす",
+          "name": "カンポノタスワーム オキュルス",
+          "images": [
+            "kr_kabuto_characters_camponotusworm_oculus_images1",
+            "kr_kabuto_characters_camponotusworm_oculus_images2",
+            "kr_kabuto_characters_camponotusworm_oculus_images3",
+            "kr_kabuto_characters_camponotusworm_oculus_images4",
+            "kr_kabuto_characters_camponotusworm_oculus_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "『仮面ライダーカブト超バトルDVD 誕生！ガタックハイパーフォーム!!』"
+            }
+          ],
+          "description": [
+            "クロオオアリに似た特徴を持つワームの成虫。同種のカンポノタスワーム マキシラと常に行動をともにする。",
+            "口元にはアリの大アゴのような突起が2本生え、肩口や前腕にも鋭いトゲ状の突起を持つ。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "加賀美新を襲撃し追い詰めるが、ガタックとカブトが同時にハイパーフォームへとフォームチェンジ。ガタック ハイパーフォームの「ハイパーライダーキック」を放たれ消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "不明"
+            },
+            {
+              "label": "体重",
+              "value": "不明"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "camponotusworm_maxilla",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_camponotusworm_oculus_thumbnail"
+        },
+        "ukaworm": {
+          "kana": "うかわーむ",
+          "name": "ウカワーム",
+          "images": [
+            "kr_kabuto_characters_ukaworm_images1",
+            "kr_kabuto_characters_ukaworm_images2",
+            "kr_kabuto_characters_ukaworm_images3",
+            "kr_kabuto_characters_ukaworm_images4",
+            "kr_kabuto_characters_ukaworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第25話『驕る捜査線』（2006年6月25日放送）"
+            }
+          ],
+          "description": [
+            "間宮麗奈（擬態）として活動するワームの本来の姿。",
+            "シオマネキに似た特性を持ち、口元が人間の女性のような形状をしているのが特徴。",
+            "全身を覆う外殻には無数のトゲが伸びており、左腕を盾のような形状に変化させることも可能。ハサミ状の右腕は分厚い鉄すら一撃で寸断し、エネルギー波を放つこともできる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "ワームの中でも幹部的立場にあり圧倒的な力を誇るが、戦闘で頭部を負傷したことで擬態時の記憶が蘇り苦悩。最終的に風間大介＝仮面ライダードレイクの放った「ライダーシューティング」を2連続で受け瀕死となり、麗奈の姿で大介の腕の中で散るという最期を迎えた。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "217.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "117.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、怪力、ハサミ状の右腕、左腕を盾に変化"
+            },
+            {
+              "label": "声",
+              "value": "三輪ひとみ"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_ukaworm_thumbnail"
+        },
+        "cassisworm_dimidius": {
+          "kana": "かっしすわーむ でぃみでぃうす",
+          "name": "カッシスワーム ディミディウス",
+          "images": [
+            "kr_kabuto_characters_cassisworm_dimidius_images1",
+            "kr_kabuto_characters_cassisworm_dimidius_images2",
+            "kr_kabuto_characters_cassisworm_dimidius_images3",
+            "kr_kabuto_characters_cassisworm_dimidius_images4",
+            "kr_kabuto_characters_cassisworm_dimidius_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第41話『敗れる最強』（2006年11月19日放送）"
+            }
+          ],
+          "description": [
+            "ワームの幹部的存在である乃木怜治（擬態）の本来の姿。",
+            "カブトガニに似た特性を持ち、全身に刃のような棘を有する。",
+            "右腕にはカブトガニの尾を思わせる鋭い剣が伸び、格闘術と剣術を合わせた攻撃を得意とする。",
+            "高い再生能力を持ち、敗北し消滅したかに見えても姿と能力を変えて復活する。",
+            "クロックアップに加え、対象を静止させる「フリーズ」の能力を持ち、仮面ライダーカブト ハイパーフォームすら打ち倒した。",
+            "再戦では「フリーズ」を見切られ、パーフェクトゼクター ガンモードの必殺技「ハイパーシューティング」と「マキシマムハイパーサイクロン」の連撃で木っ端微塵となるが、驚異の再生能力でカッシスワーム グラディウスとして復活する。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "228.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "139.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、時間を静止させる「フリーズ」、右腕の刺突剣、再生能力"
+            },
+            {
+              "label": "声",
+              "value": "坂口拓"
+            }
+          ],
+          "relatedCharacters": [
+            "cassisworm_gladius",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_cassisworm_dimidius_thumbnail"
+        },
+        "cassisworm_gladius": {
+          "kana": "かっしすわーむ ぐらでぃうす",
+          "name": "カッシスワーム グラディウス",
+          "images": [
+            "kr_kabuto_characters_cassisworm_gladius_images1",
+            "kr_kabuto_characters_cassisworm_gladius_images2",
+            "kr_kabuto_characters_cassisworm_gladius_images3",
+            "kr_kabuto_characters_cassisworm_gladius_images4",
+            "kr_kabuto_characters_cassisworm_gladius_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href=\"#\">仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第42話『最凶VS.最恐』（2006年11月26日放送）"
+            }
+          ],
+          "description": [
+            "仮面ライダーカブト ハイパーフォームに倒されたカッシスワーム ディミディウスが再生・変貌した姿。",
+            "肩や頭部などに備わる刃のような突起が増し、左腕が片刃の剣状に変化している。",
+            "擬態能力やクロックアップに加え、相手の攻撃を吸収し自分の技として発動できるコピー能力を持つ。",
+            "無数のワーム（サナギ体）を率いてエリアZへ侵攻し、仮面ライダーガタックやサソード（擬態）を病院送りにした。",
+            "カブト、キックホッパー、ガタックの三方向から放たれた「ライダーキック」を受け大ダメージを負い、カブト ハイパーフォームの「マキシマムハイパーサイクロン」でワーム（サナギ体）もろとも消滅するが、再生能力によりカッシスワーム クリペウスとして復活する。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "228.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "147.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、攻撃吸収コピー、再生能力"
+            },
+            {
+              "label": "声",
+              "value": "坂口拓"
+            }
+          ],
+          "relatedCharacters": [
+            "cassisworm_dimidius",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_cassisworm_gladius_thumbnail"
+        },
+        "cassisworm_crypeus": {
+          "kana": "かっしすわーむ くりぺうす",
+          "name": "カッシスワーム クリペウス",
+          "images": [
+            "kr_kabuto_characters_cassisworm_crypeus_images1",
+            "kr_kabuto_characters_cassisworm_crypeus_images2",
+            "kr_kabuto_characters_cassisworm_crypeus_images3",
+            "kr_kabuto_characters_cassisworm_crypeus_images4",
+            "kr_kabuto_characters_cassisworm_crypeus_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第45話『Xマス激震』（2006年12月17日放送）"
+            }
+          ],
+          "description": [
+            "仮面ライダーカブト ハイパーフォームに倒されたカッシスワーム グラディウスが再生、変貌した姿。",
+            "左腕が変化した刃に加えて右腕には堅牢な盾を装備。また、それぞれ意識を独立させた2体に分裂しており、片方のカッシスワーム クリペウスの頭部は兜のような装甲に覆われている。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」が発動可能。",
+            "仮面ライダー撃破を目的に定めて行動を開始するも、神代剣（擬態）＝スコルピオワームの能力によって2体とも操られ、その手先となった。",
+            "剣（擬態）の策略により、ワームと対ワーム秘密組織「ZECT（ゼクト）」の総力戦が開始されると、頭部に装甲のある個体は仮面ライダーガタック ライダーフォームと交戦。剣を武器にする同士、激しく斬り結んだが、腹部を攻撃されひるんだところに必殺の「ライダーキック」を叩き込まれ消滅した。",
+            "もう一方の個体は仮面ライダーキックホッパー、仮面ライダーパンチホッパーと交戦。多数のワーム（サナギ体）を使役して戦いを有利に運び、2体を同時に地面に組み伏せるも、キックホッパー＆パンチホッパーの下からの「ライダージャンプ」発動という奇策で天高くに吹き飛ばされ、落下中にキックホッパーによる「ライダーキック」、パンチホッパーによる「ライダーパンチ」の同時攻撃を受け消滅した。",
+            "驚異的な再生能力も尽きたのか、これ以降、カッシスワームが復活することはなかった。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "228.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "154.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、2体への分裂、右手の盾と左手の剣"
+            },
+            {
+              "label": "声",
+              "value": "坂口拓（さかぐち・たく）"
+            }
+          ],
+          "relatedCharacters": [
+            "cassisworm_dimidius",
+            "cassisworm_gladius",
+            "scorpioworm",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_cassisworm_crypeus_thumbnail"
+        },
+        "scorpioworm": {
+          "kana": "すこるぴおわーむ",
+          "name": "スコルピオワーム",
+          "images": [
+            "kr_kabuto_characters_scorpioworm_images1",
+            "kr_kabuto_characters_scorpioworm_images2",
+            "kr_kabuto_characters_scorpioworm_images3",
+            "kr_kabuto_characters_scorpioworm_images4",
+            "kr_kabuto_characters_scorpioworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第19話『さそり富豪』（2006年6月4日放送）"
+            }
+          ],
+          "description": [
+            "神代剣（擬態）の本当の姿。サソリに似た特性をもつ。",
+            "銀色の堅牢な外殻に覆われ、右腕には鉤爪、左腕にはサソリのハサミのような盾を備える。また、頭部からはサソリの尾のような触手が後方に垂れている。また全身にあるトゲにはティティウストキシンという猛毒があり、接触されるだけでも脅威となる。",
+            "両肩からは別の毒性をもつムチのような針を伸ばすことができ、この毒を注入した相手を支配することができる。",
+            "人間への擬態能力、そして成虫のワーム共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "1年前に本物の神代剣とその姉・神代美香を亡き者にしたあと剣に擬態したが、本物の意識が強かったことから自分がワームであることを忘れ、本来の姿を見せることはなかった。",
+            "しかし、剣（擬態）が仮面ライダーサソードとして戦ったあとなどにワームの姿に戻り暴走。この時の記憶は剣（擬態）から消えている。",
+            "カッシスワーム クリペウスとの戦いをきっかけに自分がワームであることを自覚。「ワームの頂点に立つ者」として行動を開始し、肩の毒針で2体のカッシスワーム クリペウスを支配下に置くと、ワーム（サナギ体）の大軍団を率いて対ワーム秘密組織「ZECT（ゼクト）」と仮面ライダーたちに戦いを挑む。",
+            "そして、仮面ライダーカブトとの死闘の果てに、仮面ライダーカブト ハイパーフォームがパーフェクトゼクター ソードモード（パーフェクトモード）で発動した「マキシマムハイパータイフーン」のエネルギー波を受け敗北。瀕死の状態で自身の屋敷に戻ると剣（擬態）の姿でじいやに優しく見守られながら息を引き取った。",
+            "自身が起こしたZECTとの決戦によりほとんどのワームは消滅。最後に自らがカブトに倒されることで、剣（擬態）が常々語っていた「すべてのワームは俺が倒す」を実践してみせたのだった。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "225.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "137.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "クロックアップ、擬態能力、相手を支配する毒針"
+            },
+            {
+              "label": "声",
+              "value": "山本裕典（やまもと・ゆうすけ）"
+            }
+          ],
+          "relatedCharacters": [
+            "cassisworm_crypeus",
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_scorpioworm_thumbnail"
+        },
+        "native": {
+          "kana": "ねいてぃぶ",
+          "name": "ネイティブ",
+          "images": [
+            "kr_kabuto_characters_native_images1",
+            "kr_kabuto_characters_native_images2",
+            "kr_kabuto_characters_native_images3",
+            "kr_kabuto_characters_native_images4",
+            "kr_kabuto_characters_native_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第32話『解ける謎!!』（2006年9月10日放送）"
+            }
+          ],
+          "description": [
+            "35年前、隕石に紛れて地球へとやってきた宇宙生命体。",
+            "両手を頬に添えた骸骨のような顔を包むフードのような頭部や右手の鉤爪など、その姿はワーム（サナギ体）に酷似しているが、頭部に大きな一本角が伸びている。人間に「擬態」する能力を備えているという点でもワームと同じである。",
+            "こうした特徴からワームとはなんらかの種族的つながりがあると思われるが、関係性としては敵対しており、ワームから命を狙われることもあった。",
+            "戦闘能力はあまり高くないようだが、ゼクターや専用のツールを呼び出して仮面ライダーへの変身が可能なようで、ネイティブの立川大吾は仮面ライダードレイク、仮面ライダーサソードに変身している。",
+            "また、根岸らはワーム打倒の後に全人類をネイティブ化して傘下に治めようとしていたが、それがネイティブの総意なのかは不明。",
+            "ワーム全滅後に作戦を実行に移そうとするが、仮面ライダーカブトと仮面ライダーガタックに阻止されている。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "242.0cm～"
+            },
+            {
+              "label": "体重",
+              "value": "132.0kg～"
+            },
+            {
+              "label": "特色/力など",
+              "value": "擬態、頭部の大きな角"
+            },
+            {
+              "label": "声",
+              "value": "小林正寛（こばやし・まさひろ）、中泉英雄（なかいずみ・ひでお） ほか"
+            }
+          ],
+          "relatedCharacters": [
+            "worm_sanagi"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_native_thumbnail"
+        },
+        "ciciraworm": {
+          "kana": "ししーらわーむ",
+          "name": "シシーラワーム",
+          "images": [
+            "kr_kabuto_characters_ciciraworm_images1",
+            "kr_kabuto_characters_ciciraworm_images2",
+            "kr_kabuto_characters_ciciraworm_images3",
+            "kr_kabuto_characters_ciciraworm_images4",
+            "kr_kabuto_characters_ciciraworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第31話『衝撃の事実』（2006年9月3日放送）"
+            }
+          ],
+          "description": [
+            "日下部ひより（擬態）のネイティブとしての姿。カゲロウに似た特徴を持つ。",
+            "ほかのネイティブと違い、細身で女性的な見た目をしている。背中からはカゲロウのような2対の羽が伸び、飛行することも可能。",
+            "機械と心を通じ合わせたり修復する能力があり、傷ついた天道総司のライダーベルトを触れるだけで修理したこともある。また、砂を弾丸のように発射する能力も有する。",
+            "成虫のワームと同じく、共通の一定時間のみ可能な超高速移動「クロックアップ」も発動可能。",
+            "自分がネイティブということを知らずに育ったひよりだったが、間宮麗奈（擬態）＝ウカワームと接触し、ワーム（サナギ体）に襲われたことでネイティブの姿に覚醒した。",
+            "ひよりは人間として育ち穏やかな性格のため、自分の意思でネイティブの姿に変化したことはほとんどなかった。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "216.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "115.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "擬態、クロックアップ、機械などの修復能力、砂鉄砲、テレパシー"
+            },
+            {
+              "label": "声",
+              "value": "里中唯（さとなか・ゆい）"
+            }
+          ],
+          "relatedCharacters": [
+            "native"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_ciciraworm_thumbnail"
+        },
+        "grilasworm": {
+          "kana": "ぐりらすわーむ",
+          "name": "グリラスワーム",
+          "images": [
+            "kr_kabuto_characters_grilasworm_images1",
+            "kr_kabuto_characters_grilasworm_images2",
+            "kr_kabuto_characters_grilasworm_images3",
+            "kr_kabuto_characters_grilasworm_images4",
+            "kr_kabuto_characters_grilasworm_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "第48話『天道死す!!』（2007年1月14日放送）"
+            }
+          ],
+          "description": [
+            "人間からネイティブとなった三島正人が変化した姿。コオロギに似た特性をもつ。",
+            "武器は左手の巨大な鉤爪と、背中から両肩にかけて伸びる伸縮自在な触手。ネイティブのなかでも最強といえるほどの高い戦闘力をもつ。",
+            "圧倒的な力で仮面ライダーダークカブト ライダーフォームを撃破して捕縛。人間をネイティブ化する装置の媒介として利用しようとした。",
+            "だが、その野望を止めるべく立ち塞がった仮面ライダーカブト ライダーフォーム、仮面ライダーガタック ライダーフォームと激突。仮面ライダーカブト ハイパーフォームの必殺武器パーフェクトゼクターを叩き折るなど凄まじい力を見せつけたが、長引く戦いに疲弊。",
+            "最終的にはカブト ハイパーフォームとガタック ライダーフォームが同時に放った「ライダーキック」を受け、ふらつく足取りの中で人類をネイティブ化する装置を巻き添えにしながら大爆発して消滅した。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "225.0cm"
+            },
+            {
+              "label": "体重",
+              "value": "134.0kg"
+            },
+            {
+              "label": "特色/力など",
+              "value": "擬態、クロックアップ、左腕の鉤爪、両肩の伸びる触手"
+            },
+            {
+              "label": "声",
+              "value": "弓削智久（ゆげ・ともひさ）"
+            }
+          ],
+          "relatedCharacters": [
+            "native"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_grilasworm_thumbnail"
+        },
+        "worm_sanagi_movie": {
+          "kana": "わーむ（さなぎたい・げきじょうばん）",
+          "name": "ワーム（サナギ体・劇場版）",
+          "images": [
+            "kr_kabuto_characters_worm_sanagi_movie_images1",
+            "kr_kabuto_characters_worm_sanagi_movie_images2",
+            "kr_kabuto_characters_worm_sanagi_movie_images3",
+            "kr_kabuto_characters_worm_sanagi_movie_images4",
+            "kr_kabuto_characters_worm_sanagi_movie_images5"
+          ],
+          "info": [
+            {
+              "label": "登場作品",
+              "value": "<a href='#'>仮面ライダーカブト</a>"
+            },
+            {
+              "label": "初登場回/初登場作品",
+              "value": "『仮面ライダーカブト GOD SPEED LOVE』(2006年8月5日公開)"
+            }
+          ],
+          "description": [
+            "7年前、隕石とともに地球に飛来した地球外生命体「ワーム」の幼体。",
+            "両手を頬に添えた骸骨のような顔に、それを包むフードのような頭部からは巨大な1本角が伸びる。右腕には鋭い爪が備わっておりそれを武器にするが、個々の戦闘能力はそれほど高くはなく、集団で行動することが多い。",
+            "条件は不明だが、昆虫や甲殻類の能力を備えた攻撃能力の高い成虫へと変態でき、その直前には体色が茶色に変化し体温が急激に上昇。外皮が崩れ落ちる脱皮のような形で成虫のワームが出現する。",
+            "地球に衝突した隕石からは大量のワーム（サナギ体）が出現。人類の脅威となった。また、秘密機関「ZECT（ゼクト）」が秘密裏にワームと密約を結び、再び地球に多数のワームが眠る隕石を落下させようとした際は、成虫のワームたちとともにZECT基地を守るように集合。仮面ライダーカブト、仮面ライダーガタックの前に立ちふさがったが、「クロックアップ」を発動し高速移動で駆け抜けるふたりを止められなかった。"
+          ],
+          "stats": [
+            {
+              "label": "身長",
+              "value": "242.0cm～"
+            },
+            {
+              "label": "体重",
+              "value": "132.0kg～"
+            },
+            {
+              "label": "特色/力など",
+              "value": "擬態、成虫への成長、頭部の大きな角"
+            },
+            {
+              "label": "声",
+              "value": "－"
+            }
+          ],
+          "relatedCharacters": [
+            "culexworm",
+            "subustworm"
+          ],
+          "relatedItems": [],
+          "relatedStages": [
+            "xxx"
+          ],
+          "relatedSounds": [
+            "xxx"
+          ],
+          "thumbnail": "kr_kabuto_characters_worm_sanagi_movie_thumbnail"
+        }
+      }
+    }
+  }
+}

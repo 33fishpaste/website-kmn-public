@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {"id": "work", "icon": "作", "name": "作品"},
+    {"id": "character", "icon": "人", "name": "キャラクター"},
+    {"id": "item", "icon": "具", "name": "アイテム"},
+    {"id": "stage", "icon": "場", "name": "ステージ"},
+    {"id": "sound", "icon": "音", "name": "BGM"},
+    {"id": "technique", "icon": "技", "name": "技"}
+  ]
+}

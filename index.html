@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ゲーム図鑑</title>
+    <link rel="stylesheet" href="css/sample-zukan-layout.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo">仮面ライダー図鑑</div>
+            <nav>
+                <ul>
+                    <li><a href="image_resources.html">画像リソース編集</a></li>
+                    <li><a href="sound_resources.html">音源リソース編集</a></li>
+                    <li><a href="reset.html">データリセット</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <h1>ゲーム図鑑</h1>
+            <p>ソウルキャリバー、ブラッディロア、仮面ライダーなどの情報をまとめた非公式データベースです。</p>
+        </section>
+
+        <!-- Era Selection -->
+        <section class="era-selection">
+            <div class="era-grid" id="seriesGrid"></div>
+        </section>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <input type="text" class="search-input" placeholder="ライダー名、アイテム名、怪人名で検索...">
+                <button class="search-button">検索</button>
+            </div>
+        </section>
+
+        <!-- Category Section -->
+        <section class="category-section">
+            <div class="category-container">
+                <h2 class="section-title">カテゴリーから探す</h2>
+                <div class="category-grid" id="categoryGrid"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-links">
+            <a href="#">利用規約</a>
+            <a href="#">プライバシーポリシー</a>
+            <a href="#">お問い合わせ</a>
+            <a href="#">サイトマップ</a>
+        </div>
+        <div class="copyright">
+            © Example Corp.<br>
+            © Example Corp.
+        </div>
+    </footer>
+
+    <script src="js/db.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>

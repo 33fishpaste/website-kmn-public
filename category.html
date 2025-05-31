@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>カテゴリ一覧 | ゲーム図鑑</title>
+    <link rel="stylesheet" href="css/sample-phantoms-layout.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">ゲーム図鑑</a>
+            <nav class="header-nav">
+                <a href="image_resources.html">画像リソース編集</a>
+                <a href="reset.html">データリセット</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb">
+        <div class="breadcrumb-container">
+            <div class="breadcrumb-list" id="breadcrumb">
+                <a href="index.html">ホーム</a>
+                <span class="breadcrumb-separator">></span>
+                <span id="breadcrumbCategory"></span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-container">
+        <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-section">
+                    <div class="sidebar-header">シリーズで絞り込む</div>
+                    <div class="sidebar-content">
+                        <div class="series-selector">
+                            <select id="series-select">
+                            <option value="">全てのシリーズ</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="sidebar-section">
+                    <div class="sidebar-header">キーワード検索</div>
+                    <div class="sidebar-content">
+                        <div class="search-box">
+                            <input type="text" class="search-input" placeholder="名前で検索">
+                            <button class="search-button">検索</button>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+        <!-- Content Area -->
+        <main class="content-area" id="layoutContainer">
+            <div class="page-title">
+                <h1 id="categoryTitle"></h1>
+                <span class="page-title-en" id="categoryTitleEn"></span>
+            </div>
+
+            <h2 class="series-title" id="seriesTitle"></h2>
+
+            <div class="search-result-info">
+                <span>SEARCH RESULT<span class="result-count" id="resultCount"></span></span>
+                <div class="loading-spinner"></div>
+            </div>
+
+            <!-- Category sections will be generated here -->
+            <div id="categorySections"></div>
+
+            <!-- Navigation -->
+            <nav class="bottom-nav">
+                <a href="#" class="nav-link">前のページ</a>
+                <a href="#" class="nav-link">次のページ</a>
+            </nav>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-copyright">
+            © Example Corp.<br>
+            © Example Corp.
+        </div>
+    </footer>
+
+    <script src="js/db.js"></script>
+    <script src="js/category.js"></script>
+</body>
+</html>

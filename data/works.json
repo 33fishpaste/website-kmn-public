@@ -1,0 +1,57 @@
+{
+  "list": [
+    {
+      "id": "sc",
+      "name": "ソウルキャリバー"
+    },
+    {
+      "id": "sc2",
+      "name": "ソウルキャリバーII"
+    },
+    {
+      "id": "sc3",
+      "name": "ソウルキャリバーIII"
+    },
+    {
+      "id": "sc4",
+      "name": "ソウルキャリバーIV"
+    },
+    {
+      "id": "sc5",
+      "name": "ソウルキャリバーV"
+    },
+    {
+      "id": "sc6",
+      "name": "ソウルキャリバーVI"
+    },
+    {
+      "id": "br1",
+      "name": "BLOODY ROAR"
+    },
+    {
+      "id": "br2",
+      "name": "BLOODY ROAR 2"
+    },
+    {
+      "id": "br3",
+      "name": "BLOODY ROAR 3"
+    },
+    {
+      "id": "brx",
+      "name": "BLOODY ROAR EXTREME"
+    },
+    {
+      "id": "br4",
+      "name": "BLOODY ROAR 4"
+    },
+    {
+      "id": "kr_kuuga",
+      "name": "仮面ライダークウガ"
+    },
+    {
+      "id": "kr_kabuto",
+      "name": "仮面ライダーカブト"
+    }
+  ],
+  "items": {}
+}

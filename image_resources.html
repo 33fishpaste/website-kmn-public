@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>画像リソース編集 | ゲーム図鑑</title>
+    <link rel="stylesheet" href="css/sample-phantoms-layout.css">
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid #ccc; padding: 4px; }
+        img { max-width: 50px; }
+        .text-input, .file-input { width: 100%; box-sizing: border-box; background:#000; color:#fff; border:1px solid #555; border-radius:4px; padding:4px; }
+        .ext-input { width:5ch; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">ゲーム図鑑</a>
+            <nav class="header-nav">
+                <a href="image_resources.html">画像リソース編集</a>
+                <a href="sound_resources.html">音源リソース編集</a>
+                <a href="reset.html">データリセット</a>
+            </nav>
+        </div>
+    </header>
+    <main class="content-area" style="margin-top:80px">
+        <h1>画像リソース編集</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>works</th>
+                    <th>description</th>
+                    <th>file_path</th>
+                    <th>file_name</th>
+                    <th>ext</th>
+                    <th>preview</th>
+                    <th>input</th>
+                </tr>
+            </thead>
+            <tbody id="imageTableBody"></tbody>
+        </table>
+        <button id="saveBtn">保存</button>
+        <div id="status"></div>
+    </main>
+    <script src="js/db.js"></script>
+    <script src="js/image_resources.js"></script>
+</body>
+</html>
